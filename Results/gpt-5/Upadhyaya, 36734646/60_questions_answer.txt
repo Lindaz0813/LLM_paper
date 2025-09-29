@@ -1,0 +1,599 @@
+"""
+Question: 1101 
+
+Evidence: Molecular docking calculations for all the selected inhibitors were performed with 4 different HIV-1 integrase receptors collected from protein data bank and 30 docked poses were generated for each inhibitor. We designed a few inhibitors on the basis of the structure activity relationship and predicted their pIC50 values by using generated analogue/ligand-based models, Table S6.
+
+Rationale: The paper presents original computational results (docking across multiple receptors, MD simulations, thermodynamic analyses, QSAR models) and new predictions for designed inhibitors, which constitute previously unpublished data produced by the authors rather than a review of existing results.
+
+Answer: Yes
+"""
+
+"""
+Question: 1102 
+
+Evidence: In our study molecular docking was carried out on 4 different receptors that were downloaded from the protein data bank (PDB IDs 4LH5, 5KRS, 3ZSQ, 3ZSV). A set of 220 inhibitors were collected from literature along with their pIC50 (3′- processing) values.
+
+Rationale: The methods focus on docking, MD simulations, and QSAR using literature-sourced inhibitor data and PDB protein structures; no sequencing methods, results, or sequence data are described, indicating no HIV sequences were reported.
+
+Answer: No
+"""
+
+"""
+Question: 1103 
+
+Evidence: In our study molecular docking was carried out on 4 different receptors that were downloaded from the protein data bank (PDB IDs 4LH5, 5KRS, 3ZSQ, 3ZSV). Molecular dynamics simulation was performed to investigate the stability of docked ligand-receptor complexes.
+
+Rationale: The experimental work is entirely in silico (docking, MD, QSAR) without any wet-lab virus culture; there is no description of serial passage or in vitro evolution experiments.
+
+Answer: No
+"""
+
+"""
+Question: 1104 
+
+Evidence: A set of 220 inhibitors were collected from literature along with their pIC50 (3′- processing) values. Chemical structure of all the selected inhibitors is given in Table S1 with their corresponding experimental pIC50 values.
+
+Rationale: Although the authors did not generate new susceptibility measurements, the paper reports experimental in vitro pIC50 data from the literature for the inhibitor set.
+
+Answer: Yes
+"""
+
+"""
+Question: 2101 
+
+Evidence: In our study molecular docking was carried out on 4 different receptors that were downloaded from the protein data bank (PDB IDs 4LH5, 5KRS, 3ZSQ, 3ZSV). A set of 220 inhibitors were collected from literature along with their pIC50 (3′- processing) values.
+
+Rationale: The study uses PDB protein structures and literature inhibitor data; there is no sequencing performed and no mention of depositing or citing GenBank accession numbers.
+
+Answer: No
+"""
+
+"""
+Question: 2102 
+
+Evidence: We divided the data set on the basis of the chemical structure. In our study molecular docking was carried out on 4 different receptors that were downloaded from the protein data bank (PDB IDs 4LH5, 5KRS, 3ZSQ, 3ZSV).
+
+Rationale: The paper does not involve sequencing of HIV isolates (clinical or laboratory), therefore no GenBank accession numbers—whether for clinical or other non-lab isolates—are reported.
+
+Answer: No
+"""
+
+"""
+Question: 2103 
+
+Evidence: A set of 220 inhibitors were collected from literature along with their pIC50 (3′- processing) values. In our study molecular docking was carried out on 4 different receptors that were downloaded from the protein data bank (PDB IDs 4LH5, 5KRS, 3ZSQ, 3ZSV).
+
+Rationale: No HIV sequencing was conducted or reported, hence there are no GenBank accession numbers to list.
+
+Answer: NA
+"""
+
+"""
+Question: 2202 
+
+Evidence: Molecular docking is a method where active site of a drug molecule and a target come together and fit in a 3D space. CODESSA (Comprehensive Descriptors for Structural and Statistical Analysis) program was used for the calculation of a number of descriptors.
+
+Rationale: The paper focuses on computational modeling of inhibitors and does not sequence viruses; consequently, it does not provide mutation lists for individual sequenced isolates.
+
+Answer: No
+"""
+
+"""
+Question: 2301 
+
+Evidence: Analogue and structure based approaches for modelling HIV-1 integrase inhibitors. In our study molecular docking was carried out on 4 different receptors that were downloaded from the protein data bank (PDB IDs 4LH5, 5KRS, 3ZSQ, 3ZSV).
+
+Rationale: The title and methods explicitly state the work concerns HIV-1 integrase, indicating the species is HIV-1.
+
+Answer: HIV-1
+"""
+
+"""
+Question: 2302 
+
+Evidence: Analogue and structure based approaches for modelling HIV-1 integrase inhibitors. In our study molecular docking was carried out on 4 different receptors that were downloaded from the protein data bank (PDB IDs 4LH5, 5KRS, 3ZSQ, 3ZSV).
+
+Rationale: No viral sequencing was performed; the paper does not report subtypes of sequenced viruses.
+
+Answer: NA
+"""
+
+"""
+Question: 2303 
+
+Evidence: In our study molecular docking was carried out on 4 different receptors that were downloaded from the protein data bank (PDB IDs 4LH5, 5KRS, 3ZSQ, 3ZSV). A set of 220 inhibitors were collected from literature along with their pIC50 (3′- processing) values.
+
+Rationale: No HIV gene sequencing was done; the study worked with protein structures from PDB and literature inhibitor data.
+
+Answer: NA
+"""
+
+"""
+Question: 2304 
+
+Evidence: The highest score docked pose obtained from 4LH5 and 5KRS receptors showed the best correlation with the experimental pIC50 values. Since 4LH5 receptor shows slightly better result so it was selected for further docking analysis.
+
+Rationale: The results relate to docking and QSAR; there are no HIV pol sequencing results reported.
+
+Answer: No
+"""
+
+"""
+Question: 2401 
+
+Evidence: A set of 220 inhibitors were collected from literature along with their pIC50 (3′- processing) values. In our study molecular docking was carried out on 4 different receptors that were downloaded from the protein data bank (PDB IDs 4LH5, 5KRS, 3ZSQ, 3ZSV).
+
+Rationale: No sequences were generated; therefore, no geographic provenance of sequences is provided.
+
+Answer: NA
+"""
+
+"""
+Question: 2402 
+
+Evidence: A set of 220 inhibitors were collected from literature along with their pIC50 (3′- processing) values. Molecular dynamics simulation was performed to investigate the stability of docked ligand-receptor complexes.
+
+Rationale: The study has no sequenced samples; thus, there are no collection years for sequences.
+
+Answer: NA
+"""
+
+"""
+Question: 2502 
+
+Evidence: Molecular docking was carried out on 4 different receptors that were downloaded from the protein data bank. Molecular dynamics simulation was performed to investigate the stability of docked ligand-receptor complexes.
+
+Rationale: No sequencing was performed by any method; therefore, Sanger sequencing was not used.
+
+Answer: No
+"""
+
+"""
+Question: 2503 
+
+Evidence: CODESSA 3.0 program was used for calculation of conventional descriptors. All possible combinations of descriptors were made by using multiple linear regression (MLR) analysis.
+
+Rationale: The study is computational and includes no sequencing; therefore, no NGS was used.
+
+Answer: No
+"""
+
+"""
+Question: 2504 
+
+Evidence: A set of 220 inhibitors were collected from literature along with their pIC50 (3′- processing) values. In our study molecular docking was carried out on 4 different receptors that were downloaded from the protein data bank.
+
+Rationale: Since no sequencing was performed, there were no samples to clone prior to sequencing.
+
+Answer: NA
+"""
+
+"""
+Question: 2505 
+
+Evidence: Molecular dynamics simulation was performed to investigate the stability of docked ligand-receptor complexes. MLR analysis for all possible combinations of descriptors were carried out on the selected inhibitors.
+
+Rationale: No sequencing was performed; hence single genome sequencing was not done.
+
+Answer: No
+"""
+
+"""
+Question: 2506 
+
+Evidence: Molecular docking is a method where active site of a drug molecule and a target come together and fit in a 3D space. Molecular dynamics simulation was performed to investigate the stability of docked ligand-receptor complexes.
+
+Rationale: The study did not involve experimental cloning of viral genomes or constructs; it is computational.
+
+Answer: No
+"""
+
+"""
+Question: 2601 
+
+Evidence: In our study molecular docking was carried out on 4 different receptors that were downloaded from the protein data bank. A set of 220 inhibitors were collected from literature along with their pIC50 (3′- processing) values.
+
+Rationale: No plasma-derived HIV sequencing is described; the study is in silico.
+
+Answer: No
+"""
+
+"""
+Question: 2602 
+
+Evidence: Molecular dynamics simulation was performed to investigate the stability of docked ligand-receptor complexes. CODESSA program was used for the calculation of descriptors.
+
+Rationale: There is no PBMC HIV sequencing in the study.
+
+Answer: No
+"""
+
+"""
+Question: 2603 
+
+Evidence: In our study molecular docking was carried out on 4 different receptors that were downloaded from the protein data bank. A set of 220 inhibitors were collected from literature along with their pIC50 (3′- processing) values.
+
+Rationale: No sequencing was done; therefore, the number of plasma virus sequences is zero.
+
+Answer: 0
+"""
+
+"""
+Question: 2604 
+
+Evidence: Molecular dynamics simulation was performed to investigate the stability of docked ligand-receptor complexes. The sets having more than 14 compounds were divided into training and test set for the rigorous validation of the generated QSAR models.
+
+Rationale: No sequencing was done; therefore, the number of PBMC virus sequences is zero.
+
+Answer: 0
+"""
+
+"""
+Question: 2605 
+
+Evidence: A set of 220 inhibitors were collected from literature along with their pIC50 (3′- processing) values. In our study molecular docking was carried out on 4 different receptors that were downloaded from the protein data bank.
+
+Rationale: The study does not include any sequences from individuals; thus, whether sequences were from persons with active replication is not applicable.
+
+Answer: NA
+"""
+
+"""
+Question: 2606 
+
+Evidence: Molecular docking calculations for all the selected inhibitors were performed with 4 different HIV-1 integrase receptors. Molecular dynamics simulation was performed to investigate the stability of docked ligand-receptor complexes.
+
+Rationale: No sequences were obtained; thus, it is not applicable whether sequences were from the proviral DNA reservoir.
+
+Answer: NA
+"""
+
+"""
+Question: 2701 
+
+Evidence: A set of 220 inhibitors were collected from literature along with their pIC50 (3′- processing) values. In our study molecular docking was carried out on 4 different receptors that were downloaded from the protein data bank.
+
+Rationale: There are no human participants or samples described; therefore, no infants/children samples are reported.
+
+Answer: No
+"""
+
+"""
+Question: 2702 
+
+Evidence: Molecular docking is a method where active site of a drug molecule and a target come together and fit in a 3D space. MLR analysis for all possible combinations of descriptors were carried out on the selected inhibitors.
+
+Rationale: The study does not involve human subjects or clinical interventions; no clinical trials are mentioned.
+
+Answer: No
+"""
+
+"""
+Question: 2703 
+
+Evidence: Molecular dynamics simulation was performed to investigate the stability of docked ligand-receptor complexes. We designed a few inhibitors on the basis of the structure activity relationship and predicted their pIC50 values.
+
+Rationale: Because there are no individuals in a clinical study, the question of all individuals being in a trial is not applicable.
+
+Answer: NA
+"""
+
+"""
+Question: 3101 
+
+Evidence: In our study molecular docking was carried out on 4 different receptors that were downloaded from the protein data bank. A set of 220 inhibitors were collected from literature along with their pIC50 (3′- processing) values.
+
+Rationale: No HIV sequencing of human-derived samples occurred; hence, the number of individuals with sequenced samples is zero.
+
+Answer: 0
+"""
+
+"""
+Question: 3102 
+
+Evidence: Molecular docking calculations for all the selected inhibitors were performed with 4 different HIV-1 integrase receptors. CODESSA program was used for the calculation of descriptors.
+
+Rationale: Since no individuals had samples sequenced, it is not applicable to state that all individuals underwent sequencing.
+
+Answer: NA
+"""
+
+"""
+Question: 4101 
+
+Evidence: A set of 220 inhibitors were collected from literature along with their pIC50 (3′- processing) values. In our study molecular docking was carried out on 4 different receptors that were downloaded from the protein data bank.
+
+Rationale: No sequences from individuals (ART-naive or otherwise) are reported.
+
+Answer: No
+"""
+
+"""
+Question: 4102 
+
+Evidence: Molecular dynamics simulation was performed to investigate the stability of docked ligand-receptor complexes. MLR analysis for all possible combinations of descriptors were carried out on the selected inhibitors.
+
+Rationale: The paper does not report sequences from ART-experienced individuals.
+
+Answer: No
+"""
+
+"""
+Question: 4103 
+
+Evidence: Molecular docking calculations for all the selected inhibitors were performed with 4 different HIV-1 integrase receptors. The highest score docked pose obtained from 4LH5 and 5KRS receptors showed the best correlation with the experimental pIC50 values.
+
+Rationale: There are no sequences from any individuals; thus, neither ART-naive nor ART-experienced sequences are reported.
+
+Answer: No
+"""
+
+"""
+Question: 4104 
+
+Evidence: In our study molecular docking was carried out on 4 different receptors that were downloaded from the protein data bank. A set of 220 inhibitors were collected from literature along with their pIC50 (3′- processing) values.
+
+Rationale: With no sequencing performed, there are zero samples from ART-naive individuals.
+
+Answer: 0
+"""
+
+"""
+Question: 4105 
+
+Evidence: The sets having more than 14 compounds were divided into training and test set for the rigorous validation of the generated QSAR models. We designed a few inhibitors on the basis of the structure activity relationship and predicted their pIC50 values.
+
+Rationale: There are no human subjects; therefore, ART histories are not applicable and not reported.
+
+Answer: No
+"""
+
+"""
+Question: 4201 
+
+Evidence: Molecular docking is a method where active site of a drug molecule and a target come together and fit in a 3D space. MLR analysis for all possible combinations of descriptors were carried out on the selected inhibitors.
+
+Rationale: The study does not analyze populations or sequences; it provides no prevalence data on transmitted drug resistance.
+
+Answer: No
+"""
+
+"""
+Question: 4202 
+
+Evidence: A set of 220 inhibitors were collected from literature along with their pIC50 (3′- processing) values. The test set validation, wherever possible, indicate that the selected models are robust and can be used for the prediction.
+
+Rationale: The paper contains no epidemiologic analysis of pretreatment drug resistance prevalence.
+
+Answer: No
+"""
+
+"""
+Question: 4301 
+
+Evidence: We divided the data set on the basis of the chemical structure. Set-1 contains cinnamoyl derivatives, Set-2 contains tyrphostins, Set-3 contains coumarins, Set-4 contains aromatic sulphonamides, Set-5 contains chicoric acids, Set-6 contains tetracyclines, Set-7 contains arylamides and naphthalene based compounds, Set-8 contains thiazolothiazepines, Set-9 contains salicylhydrazines, Set-10 contains styrylquinolines, Set-11 contains depsides and despidones, Set-12 contains a few diverse compounds.
+
+Rationale: The study does not involve treated individuals; thus, no ART drug classes received by individuals are reported.
+
+Answer: NA
+"""
+
+"""
+Question: 4302 
+
+Evidence: Molecular docking calculations for all the selected inhibitors were performed with 4 different HIV-1 integrase receptors. We designed a few inhibitors on the basis of the structure activity relationship and predicted their pIC50 values.
+
+Rationale: There is no reporting of individuals or their treatments; hence, no information on receipt of integrase inhibitors by individuals.
+
+Answer: No
+"""
+
+"""
+Question: 4303 
+
+Evidence: The paper focuses on HIV-1 integrase inhibitors using docking, MD, and QSAR. No clinical cohort or treatment histories are described.
+
+Rationale: There is no information about individuals receiving protease inhibitors.
+
+Answer: No
+"""
+
+"""
+Question: 4304 
+
+Evidence: There are no human subjects or clinical treatments described. The work centers on computational modeling of inhibitors and literature pIC50 values.
+
+Rationale: Without individuals in the study, the question of whether all received the same ART is not applicable.
+
+Answer: NA
+"""
+
+"""
+Question: 4305 
+
+Evidence: The study did not enroll individuals or analyze their treatment histories. A set of 220 inhibitors were collected from literature along with their pIC50 values.
+
+Rationale: There are no individuals, so INSTI exposure status is not applicable.
+
+Answer: NA
+"""
+
+"""
+Question: 4403 
+
+Evidence: No clinical participants or ART histories are reported. The study is based on computational modeling and literature data for inhibitors.
+
+Rationale: With no individuals, none received any ART regimens, so the number receiving more than one regimen is not applicable.
+
+Answer: NA
+"""
+
+"""
+Question: 4404 
+
+Evidence: The paper contains no information on individuals or their ART regimens. It focuses on docking, MD, and QSAR analyses.
+
+Rationale: As there are no individuals, counts of those with more than two regimens are not applicable.
+
+Answer: NA
+"""
+
+"""
+Question: 4405 
+
+Evidence: No clinical cohort is described. The data involve inhibitor molecules and protein structures.
+
+Rationale: Because there are no individuals, it is not applicable whether all received the same number of regimens.
+
+Answer: NA
+"""
+
+"""
+Question: 4406 
+
+Evidence: No individuals are included in the study. The research is a computational evaluation of integrase inhibitors.
+
+Rationale: With no individuals, none received one ART regimen.
+
+Answer: NA
+"""
+
+"""
+Question: 4501 
+
+Evidence: The study has no human participants or treatment data. It focuses on 220 inhibitors evaluated by docking, MD, and QSAR.
+
+Rationale: Therefore, zero individuals received dolutegravir.
+
+Answer: 0
+"""
+
+"""
+Question: 4502 
+
+Evidence: The paper does not report on individuals or their treatments. All analyses are computational or literature-based inhibitor data.
+
+Rationale: Therefore, zero individuals received darunavir.
+
+Answer: 0
+"""
+
+"""
+Question: 5101 
+
+Evidence: The paper does not sequence viruses or analyze patient-derived isolates. It reports docking, MD, and QSAR results on small-molecule inhibitors.
+
+Rationale: No individuals were genotyped; hence, none were found to have drug resistance mutations.
+
+Answer: 0
+"""
+
+"""
+Question: 5102 
+
+Evidence: Molecular docking calculations were performed with HIV-1 integrase receptors and inhibitor molecules. No viral sequencing of patient samples is described.
+
+Rationale: Without sequencing individuals, no INSTI-resistance mutations in individuals are reported.
+
+Answer: 0
+"""
+
+"""
+Question: 5103 
+
+Evidence: The study contains no sequencing data or resistance genotyping of individuals. It centers on modeling of integrase inhibitors.
+
+Rationale: Therefore, no individuals were found to have TDF-resistance mutations.
+
+Answer: 0
+"""
+
+"""
+Question: 5104 
+
+Evidence: The paper reports no clinical sequencing or resistance mutation tracking. The work is computational, using PDB structures and literature pIC50 values.
+
+Rationale: Since no individuals were followed for resistance development, no INSTI-resistance mutations are reported.
+
+Answer: NA
+"""
+
+"""
+Question: 6101 
+
+Evidence: A set of 220 inhibitors were collected from literature along with their pIC50 (3′- processing) values. Chemical structure of all the selected inhibitors is given in Table S1 with their corresponding experimental pIC50 values.
+
+Rationale: The paper does not describe performing a phenotypic susceptibility assay; it cites literature pIC50 data without specifying assay methodology used by the original sources.
+
+Answer: NA
+"""
+
+"""
+Question: 6102 
+
+Evidence: A set of 220 inhibitors were collected from literature along with their pIC50 (3′- processing) values. Chemical structure of all the selected inhibitors is given in Table S1 with their corresponding experimental pIC50 values.
+
+Rationale: The paper explicitly states it reports pIC50 values (IC50 on a log scale) taken from literature.
+
+Answer: Yes
+"""
+
+"""
+Question: 6103 
+
+Evidence: A set of 220 inhibitors were collected from literature along with their pIC50 (3′- processing) values. The highest score docked pose obtained from 4LH5 and 5KRS receptors showed the best correlation with the experimental pIC50 values.
+
+Rationale: The paper mentions pIC50 values but does not report fold-change IC50 values relative to a reference.
+
+Answer: No
+"""
+
+"""
+Question: 6104 
+
+Evidence: A set of 220 inhibitors were collected from literature along with their pIC50 (3′- processing) values (Srivastava et al., 2012). Chemical structure of all the selected inhibitors is given in Table S1 with their corresponding experimental pIC50 values.
+
+Rationale: The specific assay type used to determine these literature pIC50 values is not detailed in the paper beyond noting they are 3′-processing values; therefore, the exact phenotypic assay used is not reported here.
+
+Answer: NA
+"""
+
+"""
+Question: 6105 
+
+Evidence: The cpptraj module is used for hydrogen bond analysis between ligand and protein. The Molecular Mechanics Poisson—Boltzmann Surface Area (MMPBSA) method used to calculate the binding free energy for complexes.
+
+Rationale: The study does not perform virological replication capacity assays; it reports only computational metrics and literature pIC50 data.
+
+Answer: No
+"""
+
+"""
+Question: 6106 
+
+Evidence: We divided the data set on the basis of the chemical structure. Set-1 contains cinnamoyl derivatives, Set-2 contains tyrphostins, Set-3 contains coumarins, Set-4 contains aromatic sulphonamides, Set-5 contains chicoric acids, Set-6 contains tetracyclines, Set-7 contains arylamides and naphthalene based compounds, Set-8 contains thiazolothiazepines, Set-9 contains salicylhydrazines, Set-10 contains styrylquinolines, Set-11 contains depsides and despidones, Set-12 contains a few diverse compounds.
+
+Rationale: The paper compiles many inhibitor chemotypes rather than specific approved drugs and does not enumerate a defined set of drugs tested in a phenotypic assay within this study.
+
+Answer: NA
+"""
+
+"""
+Question: 7101 
+
+Evidence: A set of 220 inhibitors were collected from literature along with their pIC50 (3′- processing) values. In our study molecular docking was carried out on 4 different receptors that were downloaded from the protein data bank.
+
+Rationale: No viral isolates or engineered site-directed mutants are described; the study evaluates small molecules against protein structures.
+
+Answer: No
+"""
+
+"""
+Question: 7102 
+
+Evidence: Molecular docking calculations for all the selected inhibitors were performed with 4 different HIV-1 integrase receptors. Molecular dynamics simulation was performed to investigate the stability of docked ligand-receptor complexes.
+
+Rationale: The work does not include in vitro passage experiments to derive viral variants; it is entirely computational coupled with literature data.
+
+Answer: No
+"""
