@@ -1,0 +1,599 @@
+"""
+Question: 1101 
+
+Evidence: A cross-sectional study design was used to study the DR profiles in LLV patients who were followed up in Jiangsu Province in 2021. In this study, a total of 345 samples were collected throughout 2021.
+
+Rationale: The paper describes a new cross-sectional investigation conducted in 2021 with newly collected samples and analyses, indicating that it reports previously unpublished data from this cohort.
+
+Answer: Yes
+"""
+
+"""
+Question: 1102 
+
+Evidence: After nucleic acid extraction, PCR amplification and sequencing were performed on the plasma of 345 samples, Pol genes of 255 patients were obtained. Thirteen cases of sequences with poor quality or unmatched information were removed, and 242 cases of sequences meeting the research requirements were finally included.
+
+Rationale: The text explicitly states that HIV pol genes were amplified and sequenced from patient plasma, confirming that the study reports HIV sequences.
+
+Answer: Yes
+"""
+
+"""
+Question: 1103 
+
+Evidence: A cross-sectional study design was used to study the DR profiles in LLV patients who were followed up in Jiangsu Province in 2021. After nucleic acid extraction, PCR amplification and sequencing were performed on the plasma of 345 samples.
+
+Rationale: The methods describe clinical sample sequencing and analysis; there is no mention of culturing virus or conducting in vitro passage experiments, indicating such experiments were not performed.
+
+Answer: No
+"""
+
+"""
+Question: 1104 
+
+Evidence: Pol region sequences were uploaded to the HIV Drug Resistance Database (https://hivdb.Stanford.edu/) for drug resistance analysis. The drug resistance degree of each drug was divided into five grades.
+
+Rationale: The study conducted genotypic resistance interpretation using the Stanford HIVDB algorithm and did not perform phenotypic susceptibility testing (no assays, IC values, or fold-changes reported), so there is no in vitro susceptibility data.
+
+Answer: No
+"""
+
+"""
+Question: 2101 
+
+Evidence: ChromasPro (Version: 1.6) was used for sequence spliced, website (https://comet.Lih.lu/) and HIV database (https://www.hiv.lanl.gov/content/sequence/BASIC_BLAST/basic_blast.html) were used for subtype determination. Pol region sequences were uploaded to the HIV Drug Resistance Database (https://hivdb.Stanford.edu/) for drug resistance analysis.
+
+Rationale: The paper describes sequence processing and external databases used for analysis but does not provide any GenBank accession numbers, indicating none were reported.
+
+Answer: No
+"""
+
+"""
+Question: 2102 
+
+Evidence: ChromasPro (Version: 1.6) was used for sequence spliced, website (https://comet.Lih.lu/) and HIV database (https://www.hiv.lanl.gov/content/sequence/BASIC_BLAST/basic_blast.html) were used for subtype determination. Pol region sequences were uploaded to the HIV Drug Resistance Database (https://hivdb.Stanford.edu/) for drug resistance analysis.
+
+Rationale: No GenBank accession numbers of any kind (including for non-laboratory clinical isolates) are provided in the text.
+
+Answer: No
+"""
+
+"""
+Question: 2103 
+
+Evidence: ChromasPro (Version: 1.6) was used for sequence spliced, website (https://comet.Lih.lu/) and HIV database (https://www.hiv.lanl.gov/content/sequence/BASIC_BLAST/basic_blast.html) were used for subtype determination. Pol region sequences were uploaded to the HIV Drug Resistance Database (https://hivdb.Stanford.edu/) for drug resistance analysis.
+
+Rationale: The manuscript does not list any GenBank accession numbers; therefore, specific accession numbers cannot be provided.
+
+Answer: NA
+"""
+
+"""
+Question: 2202 
+
+Evidence: The DRM sites and corresponding drug sensitivity of 98 patients with drug resistance are shown in the Supplementary Materials. Sixty-six of the 98 patients had NRTIs-related DRM sites, and all caused low or above level drug resistance.
+
+Rationale: The paper states that per-patient DRM sites and corresponding sensitivities are presented in the supplementary materials, implying lists of mutations for individual sequenced isolates.
+
+Answer: Yes
+"""
+
+"""
+Question: 2301 
+
+Evidence: HIV-1 Drug Resistance Profiles of Low-Level Viremia Patients and Factors Associated With the Treatment Effect of ART-Treated Patients: A Cross-Sectional Study in Jiangsu, China. Ten HIV-1 genotypes were detected based on the Pol gene fragments from 242 cases.
+
+Rationale: The title and results explicitly reference HIV-1, indicating the species studied is HIV-1.
+
+Answer: HIV-1
+"""
+
+"""
+Question: 2302 
+
+Evidence: Ten HIV-1 genotypes were detected based on the Pol gene fragments from 242 cases. A total of 10 HIV-1 genotypes were detected, the proportion from high to low were as follows: CRF01_AE, CRF07_BC, B, CRF67_01B, CRF08_BC, CRF55_01B, CRF68_01B, 01BC, 0107 and CRF65_cpx.
+
+Rationale: The paper lists the detected genotypes/subtypes directly, including multiple CRFs, subtype B, and URFs.
+
+Answer: CRF01_AE, CRF07_BC, subtype B, CRF67_01B, CRF08_BC, CRF55_01B, CRF68_01B, 01BC (URF), 0107 (URF), CRF65_cpx
+"""
+
+"""
+Question: 2303 
+
+Evidence: Target genes in the Pol region (Reverse transcriptase and protease) were amplified by the in-house method. Pol region sequences were uploaded to the HIV Drug Resistance Database (https://hivdb.Stanford.edu/) for drug resistance analysis.
+
+Rationale: The methods specify amplification and sequencing of the pol region, specifically reverse transcriptase and protease.
+
+Answer: pol (reverse transcriptase and protease)
+"""
+
+"""
+Question: 2304 
+
+Evidence: Target genes in the Pol region (Reverse transcriptase and protease) were amplified by the in-house method. Pol region sequences were uploaded to the HIV Drug Resistance Database (https://hivdb.Stanford.edu/) for drug resistance analysis.
+
+Rationale: The study generated and analyzed pol sequences, thus reporting results of HIV pol sequences.
+
+Answer: Yes
+"""
+
+"""
+Question: 2401 
+
+Evidence: A cross-sectional study design was used to study the DR profiles in LLV patients who were followed up in Jiangsu Province in 2021. The samples of this study were collected by the drug resistance monitoring program for HIV/AIDS patients in Jiangsu Province.
+
+Rationale: The sampling location is Jiangsu Province, China; all sequences originate from this geographic region.
+
+Answer: Jiangsu Province, China
+"""
+
+"""
+Question: 2402 
+
+Evidence: A cross-sectional study design was used to study the DR profiles in LLV patients who were followed up in Jiangsu Province in 2021. In this study, a total of 345 samples were collected throughout 2021.
+
+Rationale: The text clearly states the year of follow-up and sample collection.
+
+Answer: 2021
+"""
+
+"""
+Question: 2502 
+
+Evidence: PCR products were sent to Sangon Biotech for sequencing. ChromasPro (Version: 1.6) was used for sequence spliced.
+
+Rationale: Sending PCR products for sequencing and using ChromasPro (a Sanger chromatogram editor) indicates Sanger sequencing was used.
+
+Answer: Yes
+"""
+
+"""
+Question: 2503 
+
+Evidence: PCR amplification and sequencing were performed on the plasma of 345 samples. PCR products were sent to Sangon Biotech for sequencing.
+
+Rationale: The methods describe RT-PCR/nested PCR followed by standard sequencing, without any mention of next-generation sequencing platforms or methods.
+
+Answer: No
+"""
+
+"""
+Question: 2504 
+
+Evidence: PCR products were sent to Sangon Biotech for sequencing. Target genes in the Pol region (Reverse transcriptase and protease) were amplified by the in-house method.
+
+Rationale: The paper does not mention cloning of samples prior to sequencing; without explicit information, this cannot be determined.
+
+Answer: NA
+"""
+
+"""
+Question: 2505 
+
+Evidence: PCR products were sent to Sangon Biotech for sequencing. ChromasPro (Version: 1.6) was used for sequence spliced.
+
+Rationale: The study describes bulk PCR and standard sequencing workflows; single-genome sequencing is not mentioned.
+
+Answer: NA
+"""
+
+"""
+Question: 2506 
+
+Evidence: Target genes in the Pol region (Reverse transcriptase and protease) were amplified by the in-house method. PCR products were sent to Sangon Biotech for sequencing.
+
+Rationale: There is no description of molecular cloning of viral genomes; without explicit detail, this cannot be determined.
+
+Answer: NA
+"""
+
+"""
+Question: 2601 
+
+Evidence: After nucleic acid extraction, PCR amplification and sequencing were performed on the plasma of 345 samples. Pol genes of 255 patients were obtained.
+
+Rationale: The paper explicitly states sequencing was performed on plasma samples.
+
+Answer: Yes
+"""
+
+"""
+Question: 2602 
+
+Evidence: PCR amplification and sequencing were performed on the plasma of 345 samples. The samples of this study were collected by the drug resistance monitoring program for HIV/AIDS patients in Jiangsu Province.
+
+Rationale: The sequencing source is specified as plasma; PBMC sequencing is not mentioned anywhere, indicating no PBMC sequencing results were reported.
+
+Answer: No
+"""
+
+"""
+Question: 2603 
+
+Evidence: After nucleic acid extraction, PCR amplification and sequencing were performed on the plasma of 345 samples. Pol genes of 255 patients were obtained.
+
+Rationale: The text states that sequencing was performed on the plasma of 345 samples; although only a subset yielded analyzable sequences, 345 samples underwent plasma sequencing attempts.
+
+Answer: 345
+"""
+
+"""
+Question: 2604 
+
+Evidence: After nucleic acid extraction, PCR amplification and sequencing were performed on the plasma of 345 samples. There is no mention of PBMC sequencing in the methods or results.
+
+Rationale: Only plasma sequencing is described; therefore, the number of PBMC virus sequences is zero.
+
+Answer: 0
+"""
+
+"""
+Question: 2605 
+
+Evidence: Inclusion criteria included: VL was in the range of 50–1,000 copies/ml during follow-up. After nucleic acid extraction, PCR amplification and sequencing were performed on the plasma of 345 samples.
+
+Rationale: Detectable plasma viral load (50–1,000 copies/mL) indicates ongoing viremia, i.e., active replication, from which sequences were obtained.
+
+Answer: Yes
+"""
+
+"""
+Question: 2606 
+
+Evidence: Target genes in the Pol region (Reverse transcriptase and protease) were amplified by the in-house method. After nucleic acid extraction, PCR amplification and sequencing were performed on the plasma of 345 samples.
+
+Rationale: The sequencing used RT-PCR on plasma RNA rather than proviral DNA from cells, so sequences were not obtained from the proviral DNA reservoir.
+
+Answer: No
+"""
+
+"""
+Question: 2701 
+
+Evidence: Inclusion criteria included: The subjects were older than 18 years at follow-up. Inclusion criteria were: age 18 and above.
+
+Rationale: Only adults were included; no infants or children.
+
+Answer: No
+"""
+
+"""
+Question: 2702 
+
+Evidence: A cross-sectional study design was used to study the DR profiles in LLV patients who were followed up in Jiangsu Province in 2021. The samples of this study were collected by the drug resistance monitoring program for HIV/AIDS patients in Jiangsu Province.
+
+Rationale: The study is observational within a provincial monitoring program, not a clinical trial; no trial participation is mentioned.
+
+Answer: No
+"""
+
+"""
+Question: 2703 
+
+Evidence: A cross-sectional study design was used to study the DR profiles in LLV patients who were followed up in Jiangsu Province in 2021. The samples of this study were collected by the drug resistance monitoring program for HIV/AIDS patients in Jiangsu Province.
+
+Rationale: Since it was not a clinical trial, it is not the case that all individuals were in a clinical trial.
+
+Answer: No
+"""
+
+"""
+Question: 3101 
+
+Evidence: In this study, a total of 345 samples were collected throughout 2021. After nucleic acid extraction, PCR amplification and sequencing were performed on the plasma of 345 samples.
+
+Rationale: The number of individuals with samples obtained for sequencing corresponds to the 345 collected and sequenced plasma samples.
+
+Answer: 345
+"""
+
+"""
+Question: 3102 
+
+Evidence: Pol genes of 255 patients were obtained. Thirteen cases of sequences with poor quality or unmatched information were removed, and 242 cases of sequences meeting the research requirements were finally included.
+
+Rationale: Not all sampled individuals yielded usable sequences; therefore, not all individuals underwent successful HIV sequencing.
+
+Answer: No
+"""
+
+"""
+Question: 4101 
+
+Evidence: Inclusion criteria included: ART time at follow-up was more than 6 months. Inclusion criteria included: VL was in the range of 50–1,000 copies/ml during follow-up.
+
+Rationale: All participants were on ART for over 6 months; there were no ART-naive individuals.
+
+Answer: No
+"""
+
+"""
+Question: 4102 
+
+Evidence: Inclusion criteria included: ART time at follow-up was more than 6 months. The majority of patients received 2NRTIs+NNRTIs at follow-up, followed by 2NRTIs+PIs.
+
+Rationale: Participants were ART-experienced with specified ongoing regimens.
+
+Answer: Yes
+"""
+
+"""
+Question: 4103 
+
+Evidence: Inclusion criteria included: ART time at follow-up was more than 6 months. Patients in the case group were 50–1,000 copies/ml, while patients in the control group were VS patients.
+
+Rationale: All participants were ART-experienced; there were no ART-naive subjects, so the study does not include both naive and experienced groups.
+
+Answer: No
+"""
+
+"""
+Question: 4104 
+
+Evidence: Inclusion criteria included: ART time at follow-up was more than 6 months. The follow-up period was from January 2021 to December 2021.
+
+Rationale: Because ART for more than 6 months was required, there were no ART-naive samples.
+
+Answer: 0
+"""
+
+"""
+Question: 4105 
+
+Evidence: The majority of patients received 2NRTIs+NNRTIs at follow-up, followed by 2NRTIs+PIs. Treatment duration was more than half a year (≥180 days) at the time of follow-up.
+
+Rationale: The paper reports current regimen categories and general durations but does not provide comprehensive, individual-level ART histories for all participants.
+
+Answer: No
+"""
+
+"""
+Question: 4201 
+
+Evidence: A cross-sectional study design was used to study the DR profiles in LLV patients who were followed up in Jiangsu Province in 2021. Inclusion criteria included: ART time at follow-up was more than 6 months.
+
+Rationale: The study involves ART-experienced patients with LLV/VS at follow-up; it does not assess transmitted (baseline pretreatment) resistance prevalence.
+
+Answer: No
+"""
+
+"""
+Question: 4202 
+
+Evidence: Inclusion criteria included: ART time at follow-up was more than 6 months. Patients in the control group were VS patients (VL<50 copies/ml).
+
+Rationale: The study did not enroll ART-naive individuals for pretreatment resistance assessment; hence, it does not report pretreatment resistance prevalence.
+
+Answer: No
+"""
+
+"""
+Question: 4301 
+
+Evidence: The treatment regimens were divided into four categories. Patients using the 2NRTIs+NNRTIs regimen accounted for the highest proportion, followed by 2NRTIs+PIs, and 2NRTIs+INSTIs.
+
+Rationale: These categories indicate that individuals received NRTIs with NNRTIs, PIs, or INSTIs.
+
+Answer: NRTIs, NNRTIs, PIs, INSTIs
+"""
+
+"""
+Question: 4302 
+
+Evidence: The treatment regimens were divided into four categories. 2NRTIs+INSTIs was one of the reported categories and was used by some patients.
+
+Rationale: The presence of a 2NRTIs+INSTIs group shows that some individuals received integrase inhibitors.
+
+Answer: Yes
+"""
+
+"""
+Question: 4303 
+
+Evidence: The treatment regimens were divided into four categories. Patients using the 2NRTIs+PIs regimen accounted for 28.6% among drug-resistant patients and were also present in the questionnaire cohort.
+
+Rationale: The reported regimens include protease inhibitor–based therapy.
+
+Answer: Yes
+"""
+
+"""
+Question: 4304 
+
+Evidence: The treatment regimens were divided into four categories. The majority of patients received 2NRTIs+NNRTIs at follow-up, followed by 2NRTIs+PIs and 2NRTIs+INSTIs.
+
+Rationale: Multiple different regimen types were used, so not all individuals received the same ART.
+
+Answer: No
+"""
+
+"""
+Question: 4305 
+
+Evidence: 2NRTIs+INSTIs was one of the treatment regimens reported. At follow-up, 10 patients in the VS group and 7 patients in the LLV group received 2NRTIs+INSTIs.
+
+Rationale: Because some individuals were on INSTI-containing regimens, not all participants were INSTI-naive.
+
+Answer: No
+"""
+
+"""
+Question: 4403 
+
+Evidence: The treatment regimens were divided into four categories. The majority of patients received 2NRTIs+NNRTIs at follow-up, followed by 2NRTIs+PIs and 2NRTIs+INSTIs.
+
+Rationale: The paper reports regimen categories at follow-up but does not state how many individuals had more than one regimen over time; thus this cannot be determined.
+
+Answer: NA
+"""
+
+"""
+Question: 4404 
+
+Evidence: The treatment regimens were divided into four categories. The majority of patients received 2NRTIs+NNRTIs at follow-up, followed by 2NRTIs+PIs and 2NRTIs+INSTIs.
+
+Rationale: There is no information on the count of individuals receiving more than two regimens.
+
+Answer: NA
+"""
+
+"""
+Question: 4405 
+
+Evidence: The treatment regimens were divided into four categories. The majority of patients received 2NRTIs+NNRTIs at follow-up, followed by 2NRTIs+PIs and 2NRTIs+INSTIs.
+
+Rationale: The study does not report the number of regimens per individual; therefore, whether all received the same number cannot be determined.
+
+Answer: NA
+"""
+
+"""
+Question: 4406 
+
+Evidence: The treatment regimens were divided into four categories. The majority of patients received 2NRTIs+NNRTIs at follow-up, followed by 2NRTIs+PIs and 2NRTIs+INSTIs.
+
+Rationale: The paper does not specify whether each individual received only one regimen; this is not determinable from the provided information.
+
+Answer: NA
+"""
+
+"""
+Question: 4501 
+
+Evidence: The treatment regimens were divided into four categories. 2NRTIs+INSTIs regimens were reported but specific INSTI drugs were not listed.
+
+Rationale: Specific INSTI agents such as dolutegravir are not enumerated; hence the number of individuals on dolutegravir cannot be determined.
+
+Answer: NA
+"""
+
+"""
+Question: 4502 
+
+Evidence: The treatment regimens were divided into four categories. 2NRTIs+PIs regimens were reported but specific PI drugs taken by individuals were not listed.
+
+Rationale: Although PI resistance to various drugs was analyzed genotypically, the actual PI drugs received (e.g., darunavir) are not specified for individuals; thus, counts cannot be provided.
+
+Answer: NA
+"""
+
+"""
+Question: 5101 
+
+Evidence: There are 98 drug resistance sequences among 242 pol genes (low or above level resistance to any class of drugs). According to the drug resistance analysis results, 66 drug resistance mutation (DRM) sites were detected in 98 patients with drug resistance.
+
+Rationale: The text states that 98 patients had sequences showing drug resistance (and DRMs), which corresponds to individuals with one or more DRMs.
+
+Answer: 98
+"""
+
+"""
+Question: 5102 
+
+Evidence: Target genes in the Pol region (Reverse transcriptase and protease) were amplified by the in-house method. Fifty-four DRM sites were detected in the reverse transcription (RT) region and 12 DRM sites in the protease inhibitors (PIs) region.
+
+Rationale: The integrase gene was not sequenced; therefore, no INSTI-resistance mutations could be detected or reported.
+
+Answer: 0
+"""
+
+"""
+Question: 5103 
+
+Evidence: TDF appears in the NRTIs list in Table 4 with counts per regimen category. TDF shows a total of 23 resistant cases.
+
+Rationale: Table 4 summarizes the number of patients with resistance to specific drugs; for tenofovir (TDF), there are 23 cases.
+
+Answer: 23
+"""
+
+"""
+Question: 5104 
+
+Evidence: Target genes in the Pol region (Reverse transcriptase and protease) were amplified by the in-house method. The DRM sites detected were in RT and PI regions; integrase inhibitor resistance mutations are not reported.
+
+Rationale: As integrase was not sequenced, the study did not report any INSTI-resistance mutations.
+
+Answer: NA
+"""
+
+"""
+Question: 6101 
+
+Evidence: Pol region sequences were uploaded to the HIV Drug Resistance Database (https://hivdb.Stanford.edu/) for drug resistance analysis. The drug resistance degree of each drug was divided into five grades.
+
+Rationale: The study used genotypic interpretation and did not perform phenotypic susceptibility testing; therefore, no phenotypic method is reported.
+
+Answer: NA
+"""
+
+"""
+Question: 6102 
+
+Evidence: Pol region sequences were uploaded to the HIV Drug Resistance Database (https://hivdb.Stanford.edu/) for drug resistance analysis. The drug resistance degree of each drug was divided into five grades.
+
+Rationale: No inhibitory concentration (IC50/IC90) values are presented; only genotypic resistance levels are reported.
+
+Answer: No
+"""
+
+"""
+Question: 6103 
+
+Evidence: Pol region sequences were uploaded to the HIV Drug Resistance Database (https://hivdb.Stanford.edu/) for drug resistance analysis. The drug resistance degree of each drug was divided into five grades.
+
+Rationale: There are no fold-change IC50 values or phenotypic fold reductions reported.
+
+Answer: No
+"""
+
+"""
+Question: 6104 
+
+Evidence: Pol region sequences were uploaded to the HIV Drug Resistance Database (https://hivdb.Stanford.edu/) for drug resistance analysis. The drug resistance degree of each drug was divided into five grades.
+
+Rationale: No phenotypic susceptibility assay is described; the analysis is purely genotypic.
+
+Answer: NA
+"""
+
+"""
+Question: 6105 
+
+Evidence: Pol region sequences were uploaded to the HIV Drug Resistance Database (https://hivdb.Stanford.edu/) for drug resistance analysis. The drug resistance degree of each drug was divided into five grades.
+
+Rationale: Replication capacity measurements are not mentioned anywhere in the paper.
+
+Answer: No
+"""
+
+"""
+Question: 6106 
+
+Evidence: Pol region sequences were uploaded to the HIV Drug Resistance Database (https://hivdb.Stanford.edu/) for drug resistance analysis. The drug resistance degree of each drug was divided into five grades.
+
+Rationale: The paper does not report phenotypic susceptibility testing to specific drugs; only genotypic resistance interpretations are provided.
+
+Answer: NA
+"""
+
+"""
+Question: 7101 
+
+Evidence: After nucleic acid extraction, PCR amplification and sequencing were performed on the plasma of 345 samples. PCR products were sent to Sangon Biotech for sequencing.
+
+Rationale: The study examines clinical sequences from patient plasma and does not involve constructing site-directed mutant viruses.
+
+Answer: No
+"""
+
+"""
+Question: 7102 
+
+Evidence: A cross-sectional study design was used to study the DR profiles in LLV patients who were followed up in Jiangsu Province in 2021. After nucleic acid extraction, PCR amplification and sequencing were performed on the plasma of 345 samples.
+
+Rationale: The methods do not include in vitro passaging; the data arise from direct clinical samples.
+
+Answer: No
+"""

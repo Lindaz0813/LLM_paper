@@ -1,0 +1,599 @@
+"""
+Question: 1101 
+
+Evidence: A total of 451 HIV-1-positive patient samples were collected by local CDC staff from 2004 to 2008 (Table 1 ). The HIV sequences are accessible in GenBank from KJ613998 to KJ614226 (Pol) and from KJ613666to KJ613997 (Gag).
+
+Rationale: The study describes collecting new patient samples and generating new sequences, which were then deposited in GenBank, indicating the reporting of previously unpublished data.
+
+Answer: Yes
+"""
+
+"""
+Question: 1102 
+
+Evidence: PCR products were purified using Qiagen gel extraction kit, and sequenced using an automated ABI 377 DNA Sequencer (Applied Biosystems). The HIV sequences are accessible in GenBank from KJ613998 to KJ614226 (Pol) and from KJ613666to KJ613997 (Gag).
+
+Rationale: The methods explicitly state that PCR products were sequenced, and the acknowledgments provide GenBank accession numbers for the resulting HIV sequences.
+
+Answer: Yes
+"""
+
+"""
+Question: 1103 
+
+Evidence: The study was conducted in a cross-sectional and anonymous manner in all 11 cities, based on the surveillance of molecular epidemiology or drug resistance. Viral RNA was extracted from patient plasma (140 μl) using QIAamp Viral RNA Mini kit (Qiagen, USA).
+
+Rationale: The paper focuses on sequencing patient-derived samples for epidemiological analysis and does not mention any cell culture or serial passage experiments; thus no in vitro passage experiments were reported.
+
+Answer: No
+"""
+
+"""
+Question: 1104 
+
+Evidence: The portion of the gag gene p17--p24 region (HXB2, 836--1507 nt) and the pol gene fragment (HXB2, 2147--3462 nt) were selected for PCR amplification and phylogenetic analyses. Phylogenetic analysis of the aligned sequences was performed using MEGA 6.0 with maximum likelihood model and bootstrap testing (1000 replicates).
+
+Rationale: The paper describes only genotypic/phylogenetic analyses of sequences; there is no mention of phenotypic antiretroviral susceptibility testing or IC values.
+
+Answer: No
+"""
+
+"""
+Question: 2101 
+
+Evidence: The HIV sequences are accessible in GenBank from KJ613998 to KJ614226 (Pol) and from KJ613666to KJ613997 (Gag). 
+
+Rationale: The paper explicitly provides GenBank accession number ranges for the sequenced HIV fragments.
+
+Answer: Yes
+"""
+
+"""
+Question: 2102 
+
+Evidence: The gag or pol gene fragments of 451 HIV-1 patients were amplified and sequenced. The HIV sequences are accessible in GenBank from KJ613998 to KJ614226 (Pol) and from KJ613666to KJ613997 (Gag).
+
+Rationale: The sequences with accession numbers came from clinical patient samples rather than laboratory strains, indicating they are not laboratory isolates.
+
+Answer: Yes
+"""
+
+"""
+Question: 2103 
+
+Evidence: The HIV sequences are accessible in GenBank from KJ613998 to KJ614226 (Pol) and from KJ613666to KJ613997 (Gag). 
+
+Rationale: The paper lists two contiguous accession ranges corresponding to pol and gag sequences.
+
+Answer: KJ613998–KJ614226 (Pol) and KJ613666–KJ613997 (Gag)
+"""
+
+"""
+Question: 2202 
+
+Evidence: Sequence analyses indicated that three HIV-1 subtypes (B/B', C, and G), five circulating recombination forms (CRF01_AE, CRF07_BC, CRF08_BC, CRF02_AG, and CRF06_CPX), and some novel recombinant strains were detected. Phylogenetic analysis of the aligned sequences was performed using MEGA 6.0 with maximum likelihood model and bootstrap testing (1000 replicates).
+
+Rationale: The paper reports subtype/CRF classification via phylogenetics but does not provide per-isolate mutation lists, indicating such lists were not reported.
+
+Answer: No
+"""
+
+"""
+Question: 2301 
+
+Evidence: Trends of subtype variation of human immunodeficiency virus type 1 in Zhejiang Province, China. The 451 HIV-1-seropositive individuals were followed up by Zhejiang CDC during 2004--2008.
+
+Rationale: The title and text consistently specify HIV-1.
+
+Answer: HIV-1
+"""
+
+"""
+Question: 2302 
+
+Evidence: Sequence analyses indicated that three HIV-1 subtypes (B/B', C, and G), five circulating recombination forms (CRF01_AE, CRF07_BC, CRF08_BC, CRF02_AG, and CRF06_CPX), and some novel recombinant strains were detected. The rest strains (35 cases, 7.8 %) included CRF02_AG (8 cases), CRF06_CPX (2 case), subtype G (2 case), subtype C (10 cases), and 13 potentially novel recombinant strains (CRF07-CRF08, CRF01-C, and CRF01-B).
+
+Rationale: The results enumerate all detected subtypes and CRFs among the sequenced viruses.
+
+Answer: B/B', C, G; CRF01_AE, CRF07_BC, CRF08_BC, CRF02_AG, CRF06_CPX; and novel recombinants (CRF07-CRF08, CRF01-C, CRF01-B)
+"""
+
+"""
+Question: 2303 
+
+Evidence: The portion of the gag gene p17--p24 region (HXB2, 836--1507 nt) and the pol gene fragment (HXB2, 2147--3462 nt) were selected for PCR amplification and phylogenetic analyses. Totally, 332 gag and 229 pol gene fragments were amplified and sequenced from the 451 individual samples, respectively.
+
+Rationale: The methods and results explicitly state that gag and pol fragments were sequenced.
+
+Answer: gag and pol
+"""
+
+"""
+Question: 2304 
+
+Evidence: Totally, 332 gag and 229 pol gene fragments were amplified and sequenced from the 451 individual samples, respectively. In drug resistance surveillance, only pol gene was harvested.
+
+Rationale: The study reports sequencing of pol fragments and analyzes them phylogenetically.
+
+Answer: Yes
+"""
+
+"""
+Question: 2401 
+
+Evidence: The study was conducted in a cross-sectional and anonymous manner in all 11 cities, based on the surveillance of molecular epidemiology or drug resistance. Geographically, 57.6 % (n = 260) of the HIV-1-positive patients were local residents from all 11 cities of the province.
+
+Rationale: The sequences were derived from patients in Zhejiang Province, China.
+
+Answer: Zhejiang Province, China
+"""
+
+"""
+Question: 2402 
+
+Evidence: A total of 451 HIV-1-positive patient samples were collected by local CDC staff from 2004 to 2008 (Table 1 ). HIV-1 subtypes or CRFs distributions through different years.
+
+Rationale: The collection period is explicitly stated as 2004–2008.
+
+Answer: 2004–2008
+"""
+
+"""
+Question: 2502 
+
+Evidence: PCR products were purified using Qiagen gel extraction kit, and sequenced using an automated ABI 377 DNA Sequencer (Applied Biosystems). 
+
+Rationale: ABI 377 is a Sanger sequencing instrument, indicating Sanger sequencing was used.
+
+Answer: Yes
+"""
+
+"""
+Question: 2503 
+
+Evidence: PCR products were purified using Qiagen gel extraction kit, and sequenced using an automated ABI 377 DNA Sequencer (Applied Biosystems). 
+
+Rationale: The use of an ABI 377 Sanger sequencer indicates that next-generation sequencing was not used.
+
+Answer: No
+"""
+
+"""
+Question: 2504 
+
+Evidence: PCR products were purified using Qiagen gel extraction kit, and sequenced using an automated ABI 377 DNA Sequencer (Applied Biosystems). 
+
+Rationale: The methods describe direct sequencing of purified PCR products with no mention of cloning prior to sequencing.
+
+Answer: No
+"""
+
+"""
+Question: 2505 
+
+Evidence: Viral RNA was extracted from patient plasma (140 μl) using QIAamp Viral RNA Mini kit (Qiagen, USA). PCR products were purified using Qiagen gel extraction kit, and sequenced using an automated ABI 377 DNA Sequencer (Applied Biosystems).
+
+Rationale: The workflow indicates bulk RT-PCR and population sequencing rather than single-genome sequencing.
+
+Answer: No
+"""
+
+"""
+Question: 2506 
+
+Evidence: PCR products were purified using Qiagen gel extraction kit, and sequenced using an automated ABI 377 DNA Sequencer (Applied Biosystems). 
+
+Rationale: No molecular cloning steps (e.g., plasmid cloning) are described; PCR products were sequenced directly.
+
+Answer: No
+"""
+
+"""
+Question: 2601 
+
+Evidence: Viral RNA was extracted from patient plasma (140 μl) using QIAamp Viral RNA Mini kit (Qiagen, USA). PCR products were purified … and sequenced using an automated ABI 377 DNA Sequencer (Applied Biosystems).
+
+Rationale: Sequencing was performed on cDNA derived from plasma viral RNA, i.e., plasma HIV sequencing.
+
+Answer: Yes
+"""
+
+"""
+Question: 2602 
+
+Evidence: The blood samples were separated into plasma and peripheral blood monocular cells (PBMC) and stored at −80 °C until use according to standard procedures. Viral RNA was extracted from patient plasma (140 μl) using QIAamp Viral RNA Mini kit (Qiagen, USA).
+
+Rationale: Although PBMCs were stored, the sequencing was performed on RNA extracted from plasma, with no mention of sequencing PBMC-derived nucleic acids.
+
+Answer: No
+"""
+
+"""
+Question: 2603 
+
+Evidence: The gag or pol gene fragments of 451 HIV-1 patients were amplified and sequenced. Totally, 332 gag and 229 pol gene fragments were amplified and sequenced from the 451 individual samples, respectively.
+
+Rationale: The figure caption states that sequencing was performed for 451 patients, indicating plasma sequencing was done for 451 samples.
+
+Answer: 451
+"""
+
+"""
+Question: 2604 
+
+Evidence: The blood samples were separated into plasma and peripheral blood monocular cells (PBMC) and stored at −80 °C until use according to standard procedures. Viral RNA was extracted from patient plasma (140 μl) using QIAamp Viral RNA Mini kit (Qiagen, USA).
+
+Rationale: No PBMC-derived sequencing was reported; therefore, the number of PBMC virus sequences is zero.
+
+Answer: 0
+"""
+
+"""
+Question: 2605 
+
+Evidence: Viral RNA was extracted from patient plasma (140 μl) using QIAamp Viral RNA Mini kit (Qiagen, USA). The gag or pol gene fragments of 451 HIV-1 patients were amplified and sequenced.
+
+Rationale: Plasma viral RNA represents circulating virus, indicating active replication/viremia in those individuals.
+
+Answer: Yes
+"""
+
+"""
+Question: 2606 
+
+Evidence: Viral RNA was extracted from patient plasma (140 μl) using QIAamp Viral RNA Mini kit (Qiagen, USA). 
+
+Rationale: The study sequenced plasma viral RNA rather than proviral DNA from PBMCs; there is no mention of sequencing from the proviral DNA reservoir.
+
+Answer: No
+"""
+
+"""
+Question: 2701 
+
+Evidence: Five cases were diagnosed as infection through vertical and mother-to-child (MTC) transmission. 
+
+Rationale: MTC cases indicate inclusion of infant/child samples.
+
+Answer: Yes
+"""
+
+"""
+Question: 2702 
+
+Evidence: The study was conducted in a cross-sectional and anonymous manner in all 11 cities, based on the surveillance of molecular epidemiology or drug resistance. 
+
+Rationale: The study design was observational surveillance, not a clinical trial, and no trial enrollment is mentioned.
+
+Answer: No
+"""
+
+"""
+Question: 2703 
+
+Evidence: The study was conducted in a cross-sectional and anonymous manner in all 11 cities, based on the surveillance of molecular epidemiology or drug resistance. 
+
+Rationale: Since this was not a clinical trial, it cannot be that all individuals were in a clinical trial.
+
+Answer: No
+"""
+
+"""
+Question: 3101 
+
+Evidence: The gag or pol gene fragments of 451 HIV-1 patients were amplified and sequenced. A total of 451 HIV-1-positive patient samples were collected by local CDC staff from 2004 to 2008 (Table 1 ).
+
+Rationale: The caption indicates sequencing was performed on samples from 451 patients, matching the total number of collected samples.
+
+Answer: 451
+"""
+
+"""
+Question: 3102 
+
+Evidence: The gag or pol gene fragments of 451 HIV-1 patients were amplified and sequenced. 
+
+Rationale: This states that all 451 patients had at least one gene fragment sequenced.
+
+Answer: Yes
+"""
+
+"""
+Question: 4101 
+
+Evidence: Data were collected using an interviewer-administered questionnaire. Demographic variables were collected including age, gender, ethnicity, transmission route, education, birth place, and current residence, etc.
+
+Rationale: The paper does not report ART status; therefore, it cannot be determined whether sequences are from ART-naive individuals.
+
+Answer: NA
+"""
+
+"""
+Question: 4102 
+
+Evidence: Data were collected … Demographic variables were collected including age, gender, ethnicity, transmission route, education, birth place, and current residence, etc. 
+
+Rationale: There is no information on prior ARV exposure, so it cannot be determined if any sequences are from ARV-experienced individuals.
+
+Answer: NA
+"""
+
+"""
+Question: 4103 
+
+Evidence: Data were collected … Demographic variables were collected including age, gender, ethnicity, transmission route, education, birth place, and current residence, etc. 
+
+Rationale: The study provides no ART history; thus, it is unknown whether both ART-naive and ART-experienced individuals were included.
+
+Answer: NA
+"""
+
+"""
+Question: 4104 
+
+Evidence: Data were collected … Demographic variables were collected including age, gender, ethnicity, transmission route, education, birth place, and current residence, etc. 
+
+Rationale: Without ART history data, the number of ART-naive individuals cannot be determined.
+
+Answer: NA
+"""
+
+"""
+Question: 4105 
+
+Evidence: Data were collected … Demographic variables were collected including age, gender, ethnicity, transmission route, education, birth place, and current residence, etc. 
+
+Rationale: The collected variables listed do not include ART history, so complete ART history is not provided.
+
+Answer: No
+"""
+
+"""
+Question: 4201 
+
+Evidence: Sequence analyses indicated that three HIV-1 subtypes (B/B', C, and G), five circulating recombination forms … were detected. The study participants were mainly infected through heterosexual contact (n = 282, 62.5 %).
+
+Rationale: The results focus on subtype distribution and transmission routes; no prevalence of transmitted drug resistance is reported.
+
+Answer: No
+"""
+
+"""
+Question: 4202 
+
+Evidence: Sequence analyses indicated that three HIV-1 subtypes … were detected. Phylogenetic analysis of the aligned sequences was performed using MEGA 6.0 … 
+
+Rationale: No pretreatment drug resistance prevalence data are presented; analyses were phylogenetic/subtype-based.
+
+Answer: No
+"""
+
+"""
+Question: 4301 
+
+Evidence: Demographic variables were collected including age, gender, ethnicity, transmission route, education, birth place, and current residence, etc. 
+
+Rationale: There is no information on ART regimens or drug classes received.
+
+Answer: NA
+"""
+
+"""
+Question: 4302 
+
+Evidence: Demographic variables were collected … transmission route … current residence, etc. 
+
+Rationale: No treatment information is provided, including integrase inhibitors.
+
+Answer: No
+"""
+
+"""
+Question: 4303 
+
+Evidence: Demographic variables were collected … transmission route … current residence, etc. 
+
+Rationale: No treatment information is provided, including protease inhibitors.
+
+Answer: No
+"""
+
+"""
+Question: 4304 
+
+Evidence: Demographic variables were collected … transmission route … current residence, etc. 
+
+Rationale: As no ART regimen information is reported, it cannot be determined whether all individuals received the same ART.
+
+Answer: NA
+"""
+
+"""
+Question: 4305 
+
+Evidence: Demographic variables were collected … transmission route … current residence, etc. 
+
+Rationale: There is no ART exposure information; INSTI-naivety cannot be determined.
+
+Answer: NA
+"""
+
+"""
+Question: 4403 
+
+Evidence: Demographic variables were collected … transmission route … current residence, etc. 
+
+Rationale: No ART regimen history is reported; therefore, the number receiving more than one regimen is unknown.
+
+Answer: NA
+"""
+
+"""
+Question: 4404 
+
+Evidence: Demographic variables were collected … transmission route … current residence, etc. 
+
+Rationale: No ART regimen history is reported.
+
+Answer: NA
+"""
+
+"""
+Question: 4405 
+
+Evidence: Demographic variables were collected … transmission route … current residence, etc. 
+
+Rationale: Without ART data, it cannot be determined whether individuals received the same number of regimens.
+
+Answer: NA
+"""
+
+"""
+Question: 4406 
+
+Evidence: Demographic variables were collected … transmission route … current residence, etc. 
+
+Rationale: No ART data are provided; thus, whether all individuals received one regimen cannot be determined.
+
+Answer: NA
+"""
+
+"""
+Question: 4501 
+
+Evidence: Demographic variables were collected … transmission route … current residence, etc. 
+
+Rationale: No therapy details (including dolutegravir) are reported.
+
+Answer: NA
+"""
+
+"""
+Question: 4502 
+
+Evidence: Demographic variables were collected … transmission route … current residence, etc. 
+
+Rationale: No therapy details (including darunavir) are reported.
+
+Answer: NA
+"""
+
+"""
+Question: 5101 
+
+Evidence: The portion of the gag gene … and the pol gene fragment … were selected for PCR amplification and phylogenetic analyses. Sequence analyses indicated that three HIV-1 subtypes … were detected.
+
+Rationale: The paper reports subtype analysis only and does not report counts of drug resistance mutations.
+
+Answer: NA
+"""
+
+"""
+Question: 5102 
+
+Evidence: Phylogenetic analysis of the aligned sequences was performed using MEGA 6.0 … Sequence analyses indicated that three HIV-1 subtypes … were detected.
+
+Rationale: No integrase resistance mutation analyses are reported.
+
+Answer: NA
+"""
+
+"""
+Question: 5103 
+
+Evidence: Phylogenetic analysis … for defining a subtype. Sequence analyses indicated that three HIV-1 subtypes … were detected.
+
+Rationale: No analysis of nucleotide RT (e.g., TDF resistance) mutations is provided.
+
+Answer: NA
+"""
+
+"""
+Question: 5104 
+
+Evidence: Phylogenetic analysis of the aligned sequences was performed using MEGA 6.0 … Sequence analyses indicated that three HIV-1 subtypes … were detected.
+
+Rationale: The paper does not report any INSTI-resistance mutations.
+
+Answer: NA
+"""
+
+"""
+Question: 6101 
+
+Evidence: PCR products were purified … and sequenced using an automated ABI 377 DNA Sequencer (Applied Biosystems). Phylogenetic analysis of the aligned sequences was performed using MEGA 6.0 …
+
+Rationale: Only genotypic/phylogenetic analyses were performed; no phenotypic susceptibility testing method is described.
+
+Answer: NA
+"""
+
+"""
+Question: 6102 
+
+Evidence: Phylogenetic analysis of the aligned sequences was performed using MEGA 6.0 … Sequence analyses indicated that three HIV-1 subtypes … were detected.
+
+Rationale: There is no mention of IC50/IC90 values.
+
+Answer: No
+"""
+
+"""
+Question: 6103 
+
+Evidence: Phylogenetic analysis … for defining a subtype. Sequence analyses indicated that three HIV-1 subtypes … were detected.
+
+Rationale: The study does not report fold-change in IC50 values.
+
+Answer: No
+"""
+
+"""
+Question: 6104 
+
+Evidence: Phylogenetic analysis of the aligned sequences was performed using MEGA 6.0 with maximum likelihood model and bootstrap testing (1000 replicates). 
+
+Rationale: No phenotypic susceptibility assay was used or described.
+
+Answer: NA
+"""
+
+"""
+Question: 6105 
+
+Evidence: Phylogenetic analysis … for defining a subtype. 
+
+Rationale: The paper reports no replication capacity measurements.
+
+Answer: No
+"""
+
+"""
+Question: 6106 
+
+Evidence: Phylogenetic analysis … for defining a subtype. 
+
+Rationale: No phenotypic susceptibility testing was performed; thus, no drugs were tested phenotypically.
+
+Answer: NA
+"""
+
+"""
+Question: 7101 
+
+Evidence: The gag or pol gene fragments of 451 HIV-1 patients were amplified and sequenced. Viral RNA was extracted from patient plasma (140 μl) using QIAamp Viral RNA Mini kit (Qiagen, USA).
+
+Rationale: The sequences derive from patient viruses without engineered site-directed mutations.
+
+Answer: No
+"""
+
+"""
+Question: 7102 
+
+Evidence: The study was conducted in a cross-sectional and anonymous manner … A total of 451 HIV-1-positive patient samples were collected … Viral RNA was extracted from patient plasma … and then subjected to nested polymerase chain reaction (PCR) …
+
+Rationale: The study used clinical samples and did not report any in vitro passage experiments.
+
+Answer: No
+"""
