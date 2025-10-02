@@ -1,9 +1,9 @@
 """
 Question: 1101 
 
-Evidence: Patients with PLLV were retrospectively selected from the cohort of HIV-1-infected patients followed at the Ghent University Hospital. For the 28 selected PLLV patients a total of 590 VL measurements were performed during routine patient monitoring between initiation of ART and study closure. PR-RT amplification and sequencing was successful for 154 of the 378 samples.
+Evidence: A retrospective study was carried out in which baseline and on-therapy presence of drug resistance mutations in the HIV-1 protease and reverse transcriptase genes were analysed in patients with PLLV between 20 and 250 copies/ml. Resistance analysis was successful for 154 samples collected longitudinally from 23 patients over a median period of 4.7 years (IQR 3.3–5.7).
 
-Rationale: The study describes original patient selection, measurements, and sequencing results from a specific hospital cohort, indicating that it reports newly generated clinical and sequencing data rather than summarizing previously published datasets.
+Rationale: The study describes newly generated data from a retrospective cohort, including longitudinal sequencing and analysis of patient samples; this indicates the paper reports previously unpublished original data rather than a review.
 
 Answer: Yes
 """
@@ -11,9 +11,9 @@ Answer: Yes
 """
 Question: 1102 
 
-Evidence: PR-RT amplification and sequencing was successful for 154 of the 378 samples. Sequencing was performed on the ABI3130 Sequencer (Applied Biosystems, Foster City, CA, USA) and sequences were analysed using SmartGene (IDNS™) software.
+Evidence: Sequencing was performed on the ABI3130 Sequencer (Applied Biosystems, Foster City, CA, USA) and sequences were analysed using SmartGene (IDNS™) software (SmartGene GmbH, Zug, Switzerland). PR-RT amplification and sequencing was successful for 154 of the 378 samples.
 
-Rationale: The methods and results explicitly state that HIV genomic regions (PR-RT) were amplified and sequenced, confirming that the paper reports HIV sequences.
+Rationale: The methods explicitly describe sequencing HIV gene regions and state the number of successfully sequenced samples, confirming that the paper reports HIV sequences.
 
 Answer: Yes
 """
@@ -21,9 +21,9 @@ Answer: Yes
 """
 Question: 1103 
 
-Evidence: Resistance mutations in PR-RT were assessed in the last pre-ART plasma sample using an in-house protocol. An ultrasensitive version of this protocol was used to sequence PR-RT of all plasma samples collected retrospectively between 6 months post-ART initiation and January 2013 and all samples collected until study closure (February 2014).
+Evidence: Patients with PLLV were retrospectively selected from the cohort of HIV-1-infected patients followed at the Ghent University Hospital. For all available plasma samples collected during PLLV, resistance analysis was attempted with an ultrasensitive amplification and sequencing protocol.
 
-Rationale: The study analyzes clinical plasma samples from patients rather than viruses passaged in cell culture; there is no description of serial in vitro passage experiments.
+Rationale: The study involved direct sequencing of patient plasma samples; there is no mention of culturing viruses in vitro or passaging them, which would be required for in vitro passage experiments.
 
 Answer: No
 """
@@ -31,9 +31,9 @@ Answer: No
 """
 Question: 1104 
 
-Evidence: DRM were defined as mutations with a score >10 according to the Stanford HIV Drug Resistance Database. Sequencing was performed on the ABI3130 Sequencer (Applied Biosystems, Foster City, CA, USA) and sequences were analysed using SmartGene (IDNS™) software.
+Evidence: DRM were defined as mutations with a score >10 according to the Stanford HIV Drug Resistance Database. Sequencing was performed on the ABI3130 Sequencer … and sequences were analysed using SmartGene … software.
 
-Rationale: The paper conducts genotypic resistance testing and interpretation without describing any phenotypic antiretroviral susceptibility assays.
+Rationale: The paper reports genotypic analyses and mutation interpretation; it does not present phenotypic antiretroviral susceptibility testing or new in vitro susceptibility measurements.
 
 Answer: No
 """
@@ -41,9 +41,9 @@ Answer: No
 """
 Question: 2101 
 
-Evidence: Sequencing was performed on the ABI3130 Sequencer (Applied Biosystems, Foster City, CA, USA) and sequences were analysed using SmartGene (IDNS™) software. A maximum likelihood phylogenetic tree was constructed of all collected sequences.
+Evidence: Sequencing was performed on the ABI3130 Sequencer … and sequences were analysed using SmartGene … software. A maximum likelihood phylogenetic tree was constructed of all collected sequences.
 
-Rationale: Although sequences were generated and analyzed, the text does not provide any GenBank accession numbers for these sequences.
+Rationale: Although sequencing and phylogenetic analysis were performed, the paper does not mention depositing sequences in GenBank or provide accession numbers.
 
 Answer: No
 """
@@ -51,9 +51,9 @@ Answer: No
 """
 Question: 2102 
 
-Evidence: Sequencing was performed on the ABI3130 Sequencer (Applied Biosystems, Foster City, CA, USA) and sequences were analysed using SmartGene (IDNS™) software. A maximum likelihood phylogenetic tree was constructed of all collected sequences.
+Evidence: Sequencing was performed on the ABI3130 Sequencer … and sequences were analysed using SmartGene … software. A maximum likelihood phylogenetic tree was constructed of all collected sequences.
 
-Rationale: The paper does not list any GenBank accession numbers for clinical isolates (or any isolates), so none are reported for non-laboratory isolates.
+Rationale: The paper does not provide any GenBank accession numbers for any sequences, whether clinical or laboratory; therefore none are reported for non-laboratory isolates.
 
 Answer: No
 """
@@ -61,9 +61,9 @@ Answer: No
 """
 Question: 2103 
 
-Evidence: Sequencing was performed on the ABI3130 Sequencer (Applied Biosystems, Foster City, CA, USA) and sequences were analysed using SmartGene (IDNS™) software. A maximum likelihood phylogenetic tree was constructed of all collected sequences.
+Evidence: Sequencing was performed on the ABI3130 Sequencer … and sequences were analysed using SmartGene … software. A maximum likelihood phylogenetic tree was constructed of all collected sequences.
 
-Rationale: The paper does not include any GenBank accession numbers; therefore, none can be listed.
+Rationale: No GenBank accession numbers are given anywhere in the text; therefore there are no accession numbers to list.
 
 Answer: NA
 """
@@ -71,9 +71,9 @@ Answer: NA
 """
 Question: 2202 
 
-Evidence: Historical DRMs, detected before study initiation, were observed in three patients. Patient 13 was infected with an NRTI-resistant strain (mutations D67N, T69D and T215C) and this variant was consistently found in the five samples genotyped during PLLV. New DRM, not present at study initiation or in earlier samples, were found in four isolated samples from four different patients: K101E in patient 1, Y188C in patient 13, I50L in patient 19 and K219E in patient 21.
+Evidence: Historical DRMs, detected before study initiation, were observed in three patients. New DRM, not present at study initiation or in earlier samples, were found in four isolated samples from four different patients: K101E in patient 1 … Y188C in patient 13 … I50L in patient 19 … and K219E in patient 21.
 
-Rationale: The paper specifies mutations detected for individual patients, effectively providing per-isolate (per-patient, per-sample) mutation lists.
+Rationale: The paper specifies mutations detected per patient (and sample), providing lists of mutations for individual sequenced isolates/samples.
 
 Answer: Yes
 """
@@ -81,9 +81,9 @@ Answer: Yes
 """
 Question: 2301 
 
-Evidence: Drug resistance is rarely the cause or consequence of long-term persistent low-level viraemia in HIV-1-infected patients on ART. Patients with PLLV were retrospectively selected from the cohort of HIV-1-infected patients followed at the Ghent University Hospital.
+Evidence: This study aimed to analyse the presence or occurrence of drug resistance mutations in HIV-1-infected patients during long-term persistent low-level viraemia (PLLV) under ART. Patients with PLLV were retrospectively selected from the cohort of HIV-1-infected patients …
 
-Rationale: The title and methods clearly state the infection is with HIV-1.
+Rationale: The study population and sequencing are consistently described as HIV-1.
 
 Answer: HIV-1
 """
@@ -91,29 +91,29 @@ Answer: HIV-1
 """
 Question: 2302 
 
-Evidence: These 23 patients were all male with a median age of 48 years (IQR 43–54 years). All except one were infected with a subtype B HIV-1.
+Evidence: These 23 patients were all male … All except one were infected with a subtype B HIV-1.
 
-Rationale: The results section directly reports the subtypes, indicating predominantly subtype B with one non-B infection.
+Rationale: The paper states that nearly all infections were subtype B with one non-B infection.
 
-Answer: Subtype B (all except one patient; one non-B subtype)
+Answer: Predominantly subtype B; one non-B HIV-1
 """
 
 """
 Question: 2303 
 
-Evidence: Resistance mutations in PR-RT were assessed in the last pre-ART plasma sample using an in-house protocol. An ultrasensitive version of this protocol was used to sequence PR-RT of all plasma samples collected retrospectively.
+Evidence: Resistance mutations in PR-RT were assessed in the last pre-ART plasma sample using an in-house protocol. An ultrasensitive version of this protocol was used to sequence PR-RT of all plasma samples collected …
 
-Rationale: PR-RT refers to the protease (PR) and reverse transcriptase (RT) regions of pol; these were the sequenced genes.
+Rationale: PR (protease) and RT (reverse transcriptase) are the sequenced gene regions.
 
-Answer: Protease (PR) and Reverse Transcriptase (RT) regions of pol
+Answer: Protease (PR) and Reverse Transcriptase (RT) genes (pol region)
 """
 
 """
 Question: 2304 
 
-Evidence: Resistance mutations in PR-RT were assessed in the last pre-ART plasma sample using an in-house protocol. An ultrasensitive version of this protocol was used to sequence PR-RT of all plasma samples collected retrospectively.
+Evidence: Resistance mutations in PR-RT were assessed … An ultrasensitive version of this protocol was used to sequence PR-RT of all plasma samples collected …
 
-Rationale: PR-RT are part of the HIV pol gene; thus, the study reports results from pol sequences.
+Rationale: PR and RT are components of the HIV pol gene; sequencing these constitutes HIV pol sequence results.
 
 Answer: Yes
 """
@@ -121,29 +121,29 @@ Answer: Yes
 """
 Question: 2401 
 
-Evidence: Patients with PLLV were retrospectively selected from the cohort of HIV-1-infected patients followed at the Ghent University Hospital.
+Evidence: Patients with PLLV were retrospectively selected from the cohort of HIV-1-infected patients followed at the Ghent University Hospital. The AIDS Reference Laboratory of Ghent is supported by the Belgian Ministry of Social Affairs …
 
-Rationale: Ghent University Hospital is in Belgium; therefore, sequences are from Belgium.
+Rationale: The study cohort and sequencing were based in Ghent, Belgium, indicating the sequences are from Belgium (Europe).
 
-Answer: Belgium (Ghent)
+Answer: Belgium (Europe)
 """
 
 """
 Question: 2402 
 
-Evidence: An ultrasensitive version of this protocol was used to sequence PR-RT of all plasma samples collected retrospectively between 6 months post-ART initiation and January 2013 and all samples collected until study closure (February 2014). Follow-up started 6 months after antiretroviral therapy (ART) initiation and ended at virological failure or study closure (February 2014).
+Evidence: … all plasma samples collected retrospectively between 6 months post-ART initiation and January 2013 and all samples collected until study closure (February 2014) or virological failure. Virological failure was defined as a single VL measurement above 250 copies/ml.
 
-Rationale: The paper specifies that retrospective sequencing covered up to January 2013 with additional sampling through February 2014; exact earlier start years are not provided.
+Rationale: The paper specifies the collection window for sequenced samples: up to January 2013 for retrospective samples and through February 2014 thereafter.
 
-Answer: Through January 2013 (retrospective) and up to February 2014 (follow-up)
+Answer: 2013 to 2014 (retrospective through January 2013; continued collection through February 2014)
 """
 
 """
 Question: 2502 
 
-Evidence: Sequencing was performed on the ABI3130 Sequencer (Applied Biosystems, Foster City, CA, USA). Mixtures in sequences were identified if the secondary peak height was at least 20% of the dominant peak height at that position.
+Evidence: Sequencing was performed on the ABI3130 Sequencer (Applied Biosystems, Foster City, CA, USA). Mixtures in sequences were identified if the secondary peak height was at least 20% …
 
-Rationale: The ABI3130 is a capillary Sanger sequencer, indicating Sanger sequencing was used.
+Rationale: ABI3130 is a capillary Sanger sequencer, indicating Sanger sequencing was used.
 
 Answer: Yes
 """
@@ -151,9 +151,9 @@ Answer: Yes
 """
 Question: 2503 
 
-Evidence: Sequencing was performed on the ABI3130 Sequencer (Applied Biosystems, Foster City, CA, USA). An ultrasensitive version of this protocol was used to sequence PR-RT ... and a three-step PCR was used instead of the two-step nested PCR.
+Evidence: Sequencing was performed on the ABI3130 Sequencer (Applied Biosystems, Foster City, CA, USA). 
 
-Rationale: The methods describe Sanger sequencing workflows and do not mention any next-generation sequencing technology.
+Rationale: The ABI3130 is a Sanger instrument; there is no mention of next-generation sequencing technology.
 
 Answer: No
 """
@@ -161,9 +161,9 @@ Answer: No
 """
 Question: 2504 
 
-Evidence: Briefly, 20 µl of RNA extract was subjected to 60 min of reverse transcription at 45°C and 10 cycles of amplification ... Finally, a third PCR reaction of 40 cycles was performed using 2 µl of the second PCR product. Sequencing was performed on the ABI3130 Sequencer.
+Evidence: … a three-step PCR was used instead of the two-step nested PCR. Sequencing was performed on the ABI3130 Sequencer …
 
-Rationale: The protocol involves RT-PCR amplification from plasma RNA followed by direct sequencing; there is no mention of molecular cloning of amplicons prior to sequencing.
+Rationale: The methods describe bulk RT-PCR and direct sequencing; there is no indication of cloning amplicons prior to sequencing.
 
 Answer: No
 """
@@ -171,9 +171,9 @@ Answer: No
 """
 Question: 2505 
 
-Evidence: Finally, a third PCR reaction of 40 cycles was performed using 2 µl of the second PCR product. Sequencing was performed on the ABI3130 Sequencer.
+Evidence: … a three-step PCR was used … Finally, a third PCR reaction of 40 cycles was performed … Sequencing was performed on the ABI3130 Sequencer …
 
-Rationale: The study used bulk PCR amplification rather than single-genome amplification; no single-genome sequencing was performed.
+Rationale: The study used bulk PCR amplification; single-genome sequencing (SGS) is not described.
 
 Answer: No
 """
@@ -181,9 +181,9 @@ Answer: No
 """
 Question: 2506 
 
-Evidence: Briefly, 20 µl of RNA extract was subjected to ... amplification ... Finally, a third PCR reaction of 40 cycles was performed ... Sequencing was performed on the ABI3130 Sequencer.
+Evidence: … a three-step PCR was used … Sequencing was performed on the ABI3130 Sequencer …
 
-Rationale: The methods do not include molecular cloning; they directly sequenced PCR products.
+Rationale: There is no description of molecular cloning of viral genomes or inserts; sequencing was performed directly on PCR products.
 
 Answer: No
 """
@@ -191,9 +191,9 @@ Answer: No
 """
 Question: 2601 
 
-Evidence: Resistance mutations in PR-RT were assessed in the last pre-ART plasma sample using an in-house protocol. An ultrasensitive version of this protocol was used to sequence PR-RT of all plasma samples collected retrospectively.
+Evidence: For all available plasma samples collected during PLLV, resistance analysis was attempted with an ultrasensitive amplification and sequencing protocol. PR-RT amplification and sequencing was successful for 154 of the 378 samples.
 
-Rationale: The study explicitly sequenced HIV from plasma samples.
+Rationale: The paper explicitly sequenced plasma-derived viral RNA.
 
 Answer: Yes
 """
@@ -201,9 +201,9 @@ Answer: Yes
 """
 Question: 2602 
 
-Evidence: Resistance mutations in PR-RT were assessed in the last pre-ART plasma sample using an in-house protocol. An ultrasensitive version of this protocol was used to sequence PR-RT of all plasma samples collected retrospectively.
+Evidence: For all available plasma samples collected during PLLV, resistance analysis was attempted … Sequencing was performed on the ABI3130 Sequencer …
 
-Rationale: Only plasma samples are mentioned; there is no mention of PBMC-derived sequencing.
+Rationale: Only plasma samples are mentioned; PBMC sequencing is not described.
 
 Answer: No
 """
@@ -211,9 +211,9 @@ Answer: No
 """
 Question: 2603 
 
-Evidence: PR-RT amplification and sequencing was successful for 154 of the 378 samples. A sufficient amount of residual plasma for resistance analysis was available for 378 samples.
+Evidence: PR-RT amplification and sequencing was successful for 154 of the 378 samples. Resistance analysis was successful for 154 samples collected longitudinally from 23 patients …
 
-Rationale: The successful sequencing count reported for plasma samples is 154.
+Rationale: The number of successfully sequenced plasma samples is explicitly given as 154.
 
 Answer: 154
 """
@@ -221,9 +221,9 @@ Answer: 154
 """
 Question: 2604 
 
-Evidence: Resistance mutations in PR-RT were assessed in the last pre-ART plasma sample using an in-house protocol. An ultrasensitive version of this protocol was used to sequence PR-RT of all plasma samples collected retrospectively.
+Evidence: For all available plasma samples collected during PLLV, resistance analysis was attempted … PR-RT amplification and sequencing was successful for 154 of the 378 samples.
 
-Rationale: The study did not report PBMC sequencing; therefore, the number of PBMC samples sequenced is zero.
+Rationale: The study only reports plasma sample sequencing and does not mention PBMC sequencing; therefore the number for PBMC is zero.
 
 Answer: 0
 """
@@ -231,9 +231,9 @@ Answer: 0
 """
 Question: 2605 
 
-Evidence: LLV was defined as a VL between 20 and 250 copies/ml. PLLV was defined as LLV in at least half of all VL measurements from 6 months after ART initiation until patient selection for the study (January 2013).
+Evidence: LLV was defined as a VL between 20 and 250 copies/ml. For all available plasma samples collected during PLLV, resistance analysis was attempted …
 
-Rationale: Individuals had persistent low-level viremia (detectable viral loads), indicating ongoing viraemia rather than complete suppression.
+Rationale: Sequencing was performed on plasma from individuals with measurable viremia (20–250 copies/ml), indicating active viral replication at low levels.
 
 Answer: Yes
 """
@@ -241,9 +241,9 @@ Answer: Yes
 """
 Question: 2606 
 
-Evidence: Briefly, 20 µl of RNA extract was subjected to ... reverse transcription ... An ultrasensitive version of this protocol was used to sequence PR-RT of all plasma samples. 
+Evidence: For all available plasma samples collected during PLLV, resistance analysis was attempted … Resistance mutations in PR-RT were assessed in the last pre-ART plasma sample …
 
-Rationale: Sequencing was performed from plasma viral RNA; there is no indication of sequencing from proviral DNA reservoirs.
+Rationale: The study sequenced plasma viral RNA; there is no mention of sequencing proviral DNA from PBMCs or other reservoirs.
 
 Answer: No
 """
@@ -253,7 +253,7 @@ Question: 2701
 
 Evidence: These 23 patients were all male with a median age of 48 years (IQR 43–54 years). 
 
-Rationale: The reported ages indicate adult participants, and there is no mention of infants or children.
+Rationale: Adult male cohort; no infants or children were included.
 
 Answer: No
 """
@@ -263,9 +263,9 @@ Question: 2702
 
 Evidence: Patients with PLLV were retrospectively selected from the cohort of HIV-1-infected patients followed at the Ghent University Hospital. All patients provided written informed consent.
 
-Rationale: The paper describes an observational hospital cohort with ethics approval; it does not state whether any participants were in clinical trials.
+Rationale: The study was a retrospective cohort from clinical care, not a clinical trial; no trial enrollment is described.
 
-Answer: NA
+Answer: No
 """
 
 """
@@ -273,37 +273,37 @@ Question: 2703
 
 Evidence: Patients with PLLV were retrospectively selected from the cohort of HIV-1-infected patients followed at the Ghent University Hospital. All patients provided written informed consent.
 
-Rationale: There is no indication that all individuals were enrolled in a clinical trial; trial participation is not described.
+Rationale: Because this was not a clinical trial, it follows that not all individuals were in a trial.
 
-Answer: NA
+Answer: No
 """
 
 """
 Question: 3101 
 
-Evidence: For the 28 selected PLLV patients a total of 590 VL measurements were performed during routine patient monitoring between initiation of ART and study closure. An ultrasensitive version of this protocol was used to sequence PR-RT of all plasma samples collected retrospectively between 6 months post-ART initiation and January 2013 and all samples collected until study closure (February 2014).
+Evidence: Resistance analysis was successful for 154 samples collected longitudinally from 23 patients over a median period of 4.7 years (IQR 3.3–5.7). To assess drug resistance during long-term follow-up, only patients with at least three genotyped longitudinal samples were included in further analysis (Table 1). These 23 patients …
 
-Rationale: The study applied the sequencing protocol to samples from the 28 selected patients, indicating these individuals had samples obtained for sequencing.
+Rationale: The paper specifies that sequencing data were available for 23 individuals included in the analysis.
 
-Answer: 28
+Answer: 23
 """
 
 """
 Question: 3102 
 
-Evidence: For the 28 selected PLLV patients ... A sufficient amount of residual plasma for resistance analysis was available for 378 samples ... PR-RT amplification and sequencing was successful for 154 of the 378 samples. To assess drug resistance during long-term follow-up, only patients with at least three genotyped longitudinal samples were included in further analysis (Table 1). These 23 patients were all male.
+Evidence: Resistance analysis was successful for 154 samples collected longitudinally from 23 patients … To assess drug resistance during long-term follow-up, only patients with at least three genotyped longitudinal samples were included …
 
-Rationale: Although 28 patients were selected and sequencing was attempted, only 23 had at least three genotyped samples; the text does not state whether the remaining five had any successful sequencing at all.
+Rationale: All 23 individuals in the analytical cohort had genotyped samples; hence all underwent HIV sequencing.
 
-Answer: NA
+Answer: Yes
 """
 
 """
 Question: 4101 
 
-Evidence: Resistance mutations in PR-RT were assessed in the last pre-ART plasma sample using an in-house protocol.
+Evidence: Resistance mutations in PR-RT were assessed in the last pre-ART plasma sample using an in-house protocol. Historical DRMs, detected before study initiation, were observed in three patients.
 
-Rationale: This indicates sequencing of pre-ART (ART-naive) samples.
+Rationale: Pre-ART (ART-naive) samples were sequenced for resistance, indicating sequences from ART-naive time points were reported.
 
 Answer: Yes
 """
@@ -311,9 +311,9 @@ Answer: Yes
 """
 Question: 4102 
 
-Evidence: Ten (43.5%) patients were drugexperienced before study inclusion. An ultrasensitive version of this protocol was used to sequence PR-RT of all plasma samples collected retrospectively between 6 months post-ART initiation and January 2013 and all samples collected until study closure (February 2014).
+Evidence: Ten (43.5%) patients were drug-experienced before study inclusion. An ultrasensitive version of this protocol was used to sequence PR-RT of all plasma samples collected retrospectively between 6 months post-ART initiation and January 2013 and all samples collected until study closure …
 
-Rationale: The cohort included ART-experienced individuals, and their samples were sequenced longitudinally.
+Rationale: Sequencing included on-therapy samples and the cohort included ARV-experienced individuals.
 
 Answer: Yes
 """
@@ -321,9 +321,9 @@ Answer: Yes
 """
 Question: 4103 
 
-Evidence: Resistance mutations in PR-RT were assessed in the last pre-ART plasma sample using an in-house protocol. Ten (43.5%) patients were drugexperienced before study inclusion.
+Evidence: Resistance mutations in PR-RT were assessed in the last pre-ART plasma sample … Ten (43.5%) patients were drug-experienced before study inclusion.
 
-Rationale: The study includes sequencing from both pre-ART (naive) samples and from ART-experienced individuals.
+Rationale: The study reports sequences from both pre-ART (naive) and on-ART (experienced) contexts.
 
 Answer: Yes
 """
@@ -333,7 +333,7 @@ Question: 4104
 
 Evidence: Resistance mutations in PR-RT were assessed in the last pre-ART plasma sample using an in-house protocol. 
 
-Rationale: The paper does not provide a count of how many pre-ART samples were successfully sequenced; it only states that pre-ART samples were assessed.
+Rationale: The paper does not state how many pre-ART samples were successfully sequenced; therefore the exact count cannot be determined.
 
 Answer: NA
 """
@@ -341,9 +341,9 @@ Answer: NA
 """
 Question: 4105 
 
-Evidence: Changes in treatment regimen were frequent, only five patients (21.7%) remained on the initial regimen during the study period and nine patients (39.1%) switched or intensified ART more than twice. Table 1 lists an Initial ART regimen and a Final ART regimen for each patient.
+Evidence: Changes in treatment regimen were frequent, only five patients (21.7%) remained on the initial regimen during the study period and nine patients (39.1%) switched or intensified ART more than twice. Table 1 lists only initial and final ART regimens.
 
-Rationale: The paper provides initial and final regimens and summary switching frequency but not a complete, detailed ART history for each individual.
+Rationale: Because many patients changed regimens multiple times and only initial and final regimens are tabulated, complete detailed ART histories are not provided for all individuals.
 
 Answer: No
 """
@@ -351,9 +351,9 @@ Answer: No
 """
 Question: 4201 
 
-Evidence: Patients with PLLV were retrospectively selected from the cohort of HIV-1-infected patients followed at the Ghent University Hospital. Resistance mutations in PR-RT were assessed in the last pre-ART plasma sample using an in-house protocol.
+Evidence: Historical DRMs, detected before study initiation, were observed in three patients. Patient 13 was infected with an NRTI-resistant strain … In patients 12 and 14, M184V and M184I+Y188C … had been selected by previous regimens …
 
-Rationale: Although pre-ART samples were assessed, the paper does not estimate or report the prevalence of transmitted drug resistance in a defined ART-naive population.
+Rationale: Although individual historical resistance is mentioned, the paper does not present prevalence estimates of transmitted resistance in a defined untreated population.
 
 Answer: No
 """
@@ -361,29 +361,29 @@ Answer: No
 """
 Question: 4202 
 
-Evidence: Resistance mutations in PR-RT were assessed in the last pre-ART plasma sample using an in-house protocol. Historical DRMs, detected before study initiation, were observed in three patients.
+Evidence: Historical DRMs, detected before study initiation, were observed in three patients. Patient 13 was infected with an NRTI-resistant strain …
 
-Rationale: The detection of DRMs in pre-ART samples constitutes information on pretreatment drug resistance within this cohort.
+Rationale: The paper does not provide prevalence estimates of pretreatment resistance across a baseline untreated cohort; it only notes individual cases.
 
-Answer: Yes
+Answer: No
 """
 
 """
 Question: 4301 
 
-Evidence: Table 1 footnote: ABC, abacavir; ATV, atazanavir; AZT, zidovudine; DRM, drug resistance mutation; DRV, darunavir; EFV, efavirenz; ETV, etravirine; FTC, emtricitabine; LPV, lopinavir; MVC, maraviroc; r, ritonavir-boosted; RAL, raltegravir; TDF, tenofovir disoproxil fumarate; 3TC, lamivudine. Patient 6 Final ART regimen: DRVr+ABC+3TC+RAL.
+Evidence: Of the 23 tested patients, 18 were on a boosted PI regimen during the entire PLLV episode … In line with this is the observation that regimen-associated mutations were detected during PLLV in two of the three patients who started on NNRTI-based regimens, compared to only one of 20 patients on PI-based regimens. ABC, abacavir; ATV, atazanavir; AZT, zidovudine; DRM, drug resistance mutation; DRV, darunavir; EFV, efavirenz; ETV, etravirine; FTC, emtricitabine; … MVC, maraviroc; RAL, raltegravir; TDF, tenofovir disoproxil fumarate; 3TC, lamivudine.
 
-Rationale: The regimens listed include NRTIs (TDF, FTC, 3TC, ABC, AZT), NNRTIs (EFV, NVP, ETV), PIs (ATV/r, LPV/r, DRV/r), an INSTI (RAL), and a CCR5 antagonist (MVC).
+Rationale: The text and table footnote list drugs spanning NRTIs, NNRTIs, PIs, an INSTI (raltegravir), and an entry inhibitor (maraviroc).
 
-Answer: NRTIs, NNRTIs, Protease inhibitors, Integrase inhibitors, CCR5 antagonist
+Answer: NRTIs, NNRTIs, protease inhibitors (boosted), an integrase inhibitor (raltegravir), and an entry inhibitor (maraviroc)
 """
 
 """
 Question: 4302 
 
-Evidence: Table 1 footnote includes RAL, raltegravir. Patient 20 Final ART regimen: RAL+TDF+FTC.
+Evidence: … DRVr+ABC+3TC+RAL … (Patient 6). ABC, abacavir; … RAL, raltegravir …
 
-Rationale: The presence of raltegravir-containing regimens indicates that some individuals received integrase inhibitors.
+Rationale: Raltegravir (an integrase inhibitor) appears in patient regimens, indicating individuals received INSTIs.
 
 Answer: Yes
 """
@@ -391,9 +391,9 @@ Answer: Yes
 """
 Question: 4303 
 
-Evidence: Table 1 footnote includes LPV, lopinavir; ATV, atazanavir; DRV, darunavir. Patient 13 Final ART regimen: DRVr+TDF+FTC.
+Evidence: Twenty of these patients were on a boosted protease inhibitor (PI)-based regimen (87%). Of the 23 tested patients, 18 were on a boosted PI regimen during the entire PLLV episode …
 
-Rationale: Multiple regimens include ritonavir-boosted protease inhibitors (LPV/r, ATV/r, DRV/r), indicating PI use.
+Rationale: The paper explicitly reports PI-based regimens.
 
 Answer: Yes
 """
@@ -401,9 +401,9 @@ Answer: Yes
 """
 Question: 4304 
 
-Evidence: Changes in treatment regimen were frequent, only five patients (21.7%) remained on the initial regimen during the study period and nine patients (39.1%) switched or intensified ART more than twice.
+Evidence: Changes in treatment regimen were frequent, only five patients (21.7%) remained on the initial regimen during the study period and nine patients (39.1%) switched or intensified ART more than twice. 
 
-Rationale: The heterogeneity and frequent changes show that individuals did not all receive the same ART.
+Rationale: With frequent regimen changes and varied regimens, not all individuals received the same ART.
 
 Answer: No
 """
@@ -411,9 +411,9 @@ Answer: No
 """
 Question: 4305 
 
-Evidence: Patient 6 Final ART regimen: DRVr+ABC+3TC+RAL. Patient 20 Final ART regimen: RAL+TDF+FTC.
+Evidence: … DRVr+ABC+3TC+RAL … (Patient 6). ABC, abacavir; … RAL, raltegravir …
 
-Rationale: Because some individuals received an INSTI (raltegravir), not all were INSTI-naive.
+Rationale: Because some participants received raltegravir (an INSTI), the cohort was not entirely INSTI-naive.
 
 Answer: No
 """
@@ -421,9 +421,9 @@ Answer: No
 """
 Question: 4403 
 
-Evidence: Changes in treatment regimen were frequent, only five patients (21.7%) remained on the initial regimen during the study period. 
+Evidence: Changes in treatment regimen were frequent, only five patients (21.7%) remained on the initial regimen during the study period … 
 
-Rationale: If only 5 of 23 stayed on their initial regimen, then 23−5 = 18 individuals received more than one regimen.
+Rationale: If only 5 of 23 remained on the initial regimen, then 18 patients received more than one regimen.
 
 Answer: 18
 """
@@ -431,19 +431,19 @@ Answer: 18
 """
 Question: 4404 
 
-Evidence: Nine patients (39.1%) switched or intensified ART more than twice.
+Evidence: … nine patients (39.1%) switched or intensified ART more than twice.
 
-Rationale: The paper reports how many switched more than twice but does not provide enough detail to determine exactly how many received more than two distinct regimens (e.g., those who switched exactly twice would also have >2 regimens but are not quantified).
+Rationale: Patients who switched or intensified more than twice necessarily had more than two regimens; the paper reports nine such patients.
 
-Answer: NA
+Answer: 9
 """
 
 """
 Question: 4405 
 
-Evidence: Changes in treatment regimen were frequent, only five patients (21.7%) remained on the initial regimen during the study period and nine patients (39.1%) switched or intensified ART more than twice.
+Evidence: Changes in treatment regimen were frequent … only five patients (21.7%) remained on the initial regimen during the study period and nine patients (39.1%) switched or intensified ART more than twice.
 
-Rationale: The number of regimen changes varied across individuals, indicating they did not all receive the same number of regimens.
+Rationale: The number of regimen changes varied among patients, so they did not all receive the same number of regimens.
 
 Answer: No
 """
@@ -451,9 +451,9 @@ Answer: No
 """
 Question: 4406 
 
-Evidence: Only five patients (21.7%) remained on the initial regimen during the study period.
+Evidence: Changes in treatment regimen were frequent, only five patients (21.7%) remained on the initial regimen during the study period …
 
-Rationale: Since only a minority stayed on a single regimen, not all individuals received only one ART regimen.
+Rationale: Since only 5 remained on a single initial regimen, not all patients received just one regimen.
 
 Answer: No
 """
@@ -461,9 +461,9 @@ Answer: No
 """
 Question: 4501 
 
-Evidence: Table 1 footnote lists RAL (raltegravir) and MVC (maraviroc) among others, but dolutegravir is not mentioned anywhere in the regimens. Patient 20 Final ART regimen: RAL+TDF+FTC.
+Evidence: ABC, abacavir; ATV, atazanavir; AZT, zidovudine; … RAL, raltegravir; TDF, tenofovir disoproxil fumarate; 3TC, lamivudine. 
 
-Rationale: The regimens include raltegravir as the INSTI; there is no mention of dolutegravir use.
+Rationale: The list of drugs used does not include dolutegravir, and there is no mention of dolutegravir elsewhere in the text.
 
 Answer: 0
 """
@@ -471,9 +471,9 @@ Answer: 0
 """
 Question: 4502 
 
-Evidence: Table 1 footnote includes DRV, darunavir. Multiple Final ART regimens include DRVr (e.g., patients 1, 2, 3, 6, 10, 13, 14, 15, 16, 18, 19, 22, 23).
+Evidence: 1 … Final ART regimen: DRVr+TDF+FTC. 2 … Final ART regimen: DRVr+ABC+3TC.
 
-Rationale: Counting individuals with darunavir-containing regimens in Table 1 yields 13 persons.
+Rationale: Counting across Table 1 shows darunavir/ritonavir appears in the regimens of 13 distinct patients; representative rows are shown as evidence, and the full count was derived from all table entries.
 
 Answer: 13
 """
@@ -481,19 +481,19 @@ Answer: 13
 """
 Question: 5101 
 
-Evidence: Historical DRMs, detected before study initiation, were observed in three patients. New DRM, not present at study initiation or in earlier samples, were found in four isolated samples from four different patients: K101E in patient 1, Y188C in patient 13, I50L in patient 19 and K219E in patient 21.
+Evidence: Historical DRMs, detected before study initiation, were observed in three patients. New DRM … were found in four isolated samples from four different patients: K101E in patient 1 … Y188C in patient 13 … I50L in patient 19 … and K219E in patient 21.
 
-Rationale: Unique individuals with DRMs are patients 12, 13, 14 (historical) and 1, 19, 21 (new); patient 13 appears in both groups, yielding 6 individuals with one or more DRMs.
+Rationale: Three patients had historical DRMs and four had new DRMs during PLLV, totaling seven individuals with one or more DRMs reported.
 
-Answer: 6
+Answer: 7
 """
 
 """
 Question: 5102 
 
-Evidence: Resistance mutations in PR-RT were assessed. New DRM detected were K101E, Y188C, I50L and K219E.
+Evidence: Resistance mutations in PR-RT were assessed … New DRM … were found …: K101E … Y188C … I50L … K219E. 
 
-Rationale: Only protease and reverse transcriptase regions were sequenced and reported; no integrase resistance mutations were examined or found.
+Rationale: Sequencing targeted PR and RT; detected DRMs were in RT (NNRTI/NRTI) and PR. No integrase sequencing or INSTI-resistance mutations were reported.
 
 Answer: 0
 """
@@ -501,9 +501,9 @@ Answer: 0
 """
 Question: 5103 
 
-Evidence: Historical DRMs included D67N, T69D and T215C. New DRM detected were K101E, Y188C, I50L and K219E.
+Evidence: New DRM … were found …: K101E … Y188C … I50L … K219E. Historical DRMs … D67N, T69D and T215C … M184V … M184I+Y188C …
 
-Rationale: None of the reported mutations are the canonical TDF-associated resistance mutations (e.g., K65R); therefore, no individuals had TDF-resistance mutations.
+Rationale: None of the listed mutations correspond to tenofovir (TDF) resistance such as K65R; therefore no individuals were found with TDF-resistance mutations.
 
 Answer: 0
 """
@@ -511,19 +511,19 @@ Answer: 0
 """
 Question: 5104 
 
-Evidence: Resistance mutations in PR-RT were assessed. New DRM detected were K101E, Y188C, I50L and K219E.
+Evidence: Resistance mutations in PR-RT were assessed … New DRM … were found …: K101E … Y188C … I50L … K219E. 
 
-Rationale: The study did not sequence integrase and reports no INSTI resistance mutations.
+Rationale: No integrase gene was sequenced and no INSTI-resistance mutations are listed; thus there were none to report.
 
-Answer: NA
+Answer: None
 """
 
 """
 Question: 6101 
 
-Evidence: Sequencing was performed on the ABI3130 Sequencer ... and sequences were analysed using SmartGene ... DRM were defined as mutations with a score >10 according to the Stanford HIV Drug Resistance Database.
+Evidence: DRM were defined as mutations with a score >10 according to the Stanford HIV Drug Resistance Database. Sequencing was performed on the ABI3130 Sequencer …
 
-Rationale: The paper reports only genotypic analyses; no phenotypic susceptibility testing methods are described.
+Rationale: The study used genotypic methods and mutation interpretation rather than phenotypic susceptibility assays; no phenotypic method is described.
 
 Answer: NA
 """
@@ -531,9 +531,9 @@ Answer: NA
 """
 Question: 6102 
 
-Evidence: DRM were defined as mutations with a score >10 according to the Stanford HIV Drug Resistance Database. Sequencing was performed on the ABI3130 Sequencer.
+Evidence: DRM were defined as mutations with a score >10 according to the Stanford HIV Drug Resistance Database. 
 
-Rationale: There is no mention of IC50 or IC90 determinations in the text.
+Rationale: There are no reported IC50/IC90 values; the paper relies on genotypic interpretations only.
 
 Answer: No
 """
@@ -541,9 +541,9 @@ Answer: No
 """
 Question: 6103 
 
-Evidence: DRM were defined as mutations with a score >10 according to the Stanford HIV Drug Resistance Database. Sequencing was performed on the ABI3130 Sequencer.
+Evidence: DRM were defined as mutations with a score >10 according to the Stanford HIV Drug Resistance Database. 
 
-Rationale: The paper contains no phenotypic fold-change data.
+Rationale: No fold-change in IC50 data are presented.
 
 Answer: No
 """
@@ -551,9 +551,9 @@ Answer: No
 """
 Question: 6104 
 
-Evidence: Sequencing was performed on the ABI3130 Sequencer ... DRM were defined as mutations with a score >10 according to the Stanford HIV Drug Resistance Database.
+Evidence: DRM were defined as mutations with a score >10 according to the Stanford HIV Drug Resistance Database. 
 
-Rationale: No phenotypic susceptibility assay is described.
+Rationale: No phenotypic susceptibility assay was used or named.
 
 Answer: NA
 """
@@ -561,9 +561,9 @@ Answer: NA
 """
 Question: 6105 
 
-Evidence: The modifications for the ultrasensitive protocol consisted of ... PCR ... Sequencing was performed on the ABI3130 Sequencer. 
+Evidence: DRM were defined as mutations with a score >10 according to the Stanford HIV Drug Resistance Database. 
 
-Rationale: There is no mention of replication capacity measurements in the methods or results.
+Rationale: The paper does not include replication capacity measurements.
 
 Answer: No
 """
@@ -571,9 +571,9 @@ Answer: No
 """
 Question: 6106 
 
-Evidence: Sequencing was performed on the ABI3130 Sequencer ... DRM were defined as mutations with a score >10 according to the Stanford HIV Drug Resistance Database.
+Evidence: DRM were defined as mutations with a score >10 according to the Stanford HIV Drug Resistance Database. 
 
-Rationale: No phenotypic testing of drugs was performed; therefore, no drugs were tested for phenotypic susceptibility.
+Rationale: No phenotypic susceptibility testing was conducted; therefore no drugs were tested phenotypically.
 
 Answer: NA
 """
@@ -581,9 +581,9 @@ Answer: NA
 """
 Question: 7101 
 
-Evidence: Resistance mutations in PR-RT were assessed in the last pre-ART plasma sample ... and ... in all plasma samples collected retrospectively ... Sequencing was performed on the ABI3130 Sequencer.
+Evidence: Patients with PLLV were retrospectively selected … For all available plasma samples collected during PLLV, resistance analysis was attempted with an ultrasensitive amplification and sequencing protocol.
 
-Rationale: The study sequenced viruses directly from patient plasma; there is no description of site-directed mutagenesis constructs.
+Rationale: The study analyzed clinical samples directly; no site-directed mutagenesis or engineered mutants were created.
 
 Answer: No
 """
@@ -591,9 +591,9 @@ Answer: No
 """
 Question: 7102 
 
-Evidence: An ultrasensitive version of this protocol was used to sequence PR-RT of all plasma samples collected retrospectively between 6 months post-ART initiation and January 2013 and all samples collected until study closure (February 2014). 
+Evidence: Patients with PLLV were retrospectively selected … For all available plasma samples collected during PLLV, resistance analysis was attempted with an ultrasensitive amplification and sequencing protocol.
 
-Rationale: The paper analyzes clinical samples and does not report any in vitro passage experiments.
+Rationale: There is no mention of in vitro viral passaging; the isolates are from patient plasma.
 
 Answer: No
 """
